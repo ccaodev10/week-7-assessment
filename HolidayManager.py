@@ -28,7 +28,7 @@ print("==================")
 print("There are",len(holiday_list),"holidays stored in the system.")
 
 edited = 0 # increments if any changes are made (Added or Removed)
-api_key = "de28503000abba2941ecd149deff9c83"
+api_key = "[place_holder]"
 lat = "44.976884" # Minneapolis latitude/longitude
 lon = "-93.269999"
 weather_dict = {} # master dictionary that stores the current weeks dates and weather to be cross-referenced later
