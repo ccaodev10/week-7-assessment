@@ -72,11 +72,12 @@ def option2(): # Remove
     remove_me = input("Holiday name: ")
     def my_decorator(func):
         def wrapper():
+            print("Success:",remove_me,"has been removed from the holiday list")
             func()
         return wrapper
     @my_decorator
     def print_delete():
-        print("Success:",remove_me,"has been removed from the holiday list")
+        return
     found = False
     for i, holiday in enumerate(holiday_list):
         if remove_me == holiday.get_name():
