@@ -14,8 +14,6 @@ class Holiday:
         return self._date
     def __str__(self):
         return self._name + " (" + self._date + ") has been added to the holiday list."
-    def __len__(self):
-        return len(self.names)
 
 class Compare: # used in Option 5 when comparing input to "Y" or "N"
     def __init__(self, name):
@@ -26,9 +24,13 @@ class Compare: # used in Option 5 when comparing input to "Y" or "N"
         else:
             return False
         
-filename = "Holidays.json"
 holiday_list = []
-with open(filename) as json_file:
+with open("Holidays.json") as json_file:
+    holiday_file = json.load(json_file)
+    for holiday in holiday_file:
+        temp_holiday = Holiday(holiday['name'],holiday['date'])
+        holiday_list.append(temp_holiday)
+with open("MoreHolidays.json") as json_file:
     holiday_file = json.load(json_file)
     for holiday in holiday_file:
         temp_holiday = Holiday(holiday['name'],holiday['date'])
@@ -111,10 +113,11 @@ def option3(): # Save
         for holiday in holiday_list:
             holiday_list_temp.append({'name':holiday.get_name(), 'date':holiday.get_date()})
         json_convert = json.dumps(holiday_list_temp, indent = 5)
-        k = open(filename,'w')
+        k = open("Holidays_Final.json",'w')
         k.write(json_convert)
         k.close()
         print("Success: Your changes have been saved.")
+        edited = 0
     else:
         print("Holiday list file save canceled.")
         

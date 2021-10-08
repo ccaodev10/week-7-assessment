@@ -1,0 +1,4826 @@
+[
+     {
+          "name": "New Year's Day",
+          "date": "2020-01-01"
+     },
+     {
+          "name": "Epiphany",
+          "date": "2020-01-06"
+     },
+     {
+          "name": "Orthodox Christmas Day",
+          "date": "2020-01-07"
+     },
+     {
+          "name": "Margaret Thatcher Day",
+          "date": "2020-01-10"
+     },
+     {
+          "name": "World Sketchnote Day",
+          "date": "2020-01-11"
+     },
+     {
+          "name": "Zanzibar Revolution Day",
+          "date": "2020-01-12"
+     },
+     {
+          "name": "National Rubber Ducky Day",
+          "date": "2020-01-13"
+     },
+     {
+          "name": "Stephen Foster Memorial",
+          "date": "2020-01-13"
+     },
+     {
+          "name": "Tamil Thai Pongdal Day",
+          "date": "2020-01-14"
+     },
+     {
+          "name": "Orthodox New Year",
+          "date": "2020-01-14"
+     },
+     {
+          "name": "National Bagel Day",
+          "date": "2020-01-15"
+     },
+     {
+          "name": "Signing of the Peace Accords",
+          "date": "2020-01-16"
+     },
+     {
+          "name": "Martin Luther King Jr. Day",
+          "date": "2020-01-20"
+     },
+     {
+          "name": "Robert E. Lee's Birthday",
+          "date": "2020-01-20"
+     },
+     {
+          "name": "Idaho Human Rights Day",
+          "date": "2020-01-20"
+     },
+     {
+          "name": "Civil Rights Day",
+          "date": "2020-01-20"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2020-01-19"
+     },
+     {
+          "name": "Kansas Day",
+          "date": "2020-01-29"
+     },
+     {
+          "name": "National Freedom Day",
+          "date": "2020-02-01"
+     },
+     {
+          "name": "First Day of Black History Month",
+          "date": "2020-02-01"
+     },
+     {
+          "name": "Groundhog Day",
+          "date": "2020-02-02"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2020-02-04"
+     },
+     {
+          "name": "National Wear Red Day",
+          "date": "2020-02-07"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2020-02-12"
+     },
+     {
+          "name": "Chinese New Year",
+          "date": "2020-01-25"
+     },
+     {
+          "name": "Valentine's Day",
+          "date": "2020-02-14"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2020-02-14"
+     },
+     {
+          "name": "President's Day",
+          "date": "2020-02-15"
+     },
+     {
+          "name": "Daisy Gatson Bates Day",
+          "date": "2020-02-15"
+     },
+     {
+          "name": "Susan B. Anthony Birthday",
+          "date": "2020-02-15"
+     },
+     {
+          "name": "Mardi Gras",
+          "date": "2020-02-16"
+     },
+     {
+          "name": "Elizabeth Peratrovich Day",
+          "date": "2020-02-16"
+     },
+     {
+          "name": "Ash Wednesday",
+          "date": "2020-02-17"
+     },
+     {
+          "name": "George Rogers Clark Day",
+          "date": "2020-02-25"
+     },
+     {
+          "name": "Purim",
+          "date": "2020-02-26"
+     },
+     {
+          "name": "Linus Pauling Day",
+          "date": "2020-02-28"
+     },
+     {
+          "name": "St. David's Day",
+          "date": "2020-03-01"
+     },
+     {
+          "name": "Casimir Pulaski Day",
+          "date": "2020-03-01"
+     },
+     {
+          "name": "First Day of Women's History Month",
+          "date": "2020-03-01"
+     },
+     {
+          "name": "First Day of Irish Ammerican Heritage Month",
+          "date": "2020-03-01"
+     },
+     {
+          "name": "Texas Independence Day",
+          "date": "2020-03-02"
+     },
+     {
+          "name": "Read Across America Day",
+          "date": "2020-02-02"
+     },
+     {
+          "name": "Town Meeting Day",
+          "date": "2020-02-02"
+     },
+     {
+          "name": "Employee Appreciation Day",
+          "date": "2020-03-05"
+     },
+     {
+          "name": "Maha Shivaratri",
+          "date": "2020-03-11"
+     },
+     {
+          "name": "Isra and Mi'raj",
+          "date": "2020-03-11"
+     },
+     {
+          "name": "Davlight Savings Time Starts",
+          "date": "2020-03-14"
+     },
+     {
+          "name": "St. Patrick's Day",
+          "date": "2020-03-17"
+     },
+     {
+          "name": "Evacuation Day",
+          "date": "2020-03-17"
+     },
+     {
+          "name": "March Equinox",
+          "date": "2020-03-20"
+     },
+     {
+          "name": "Maryland Day",
+          "date": "2020-03-25"
+     },
+     {
+          "name": "Prince Jonah Kuhio Kalanianaole Day",
+          "date": "2020-03-26"
+     },
+     {
+          "name": "Passover Eve",
+          "date": "2020-03-27"
+     },
+     {
+          "name": "Palm Sunday",
+          "date": "2020-03-28"
+     },
+     {
+          "name": "Holi",
+          "date": "2020-03-28"
+     },
+     {
+          "name": "Passover (first day)",
+          "date": "2020-03-28"
+     },
+     {
+          "name": "Seward's Day",
+          "date": "2020-03-29"
+     },
+     {
+          "name": "National Vietnam War Veterans Day",
+          "date": "2020-03-29"
+     },
+     {
+          "name": "Doctor's Day",
+          "date": "2020-03-30"
+     },
+     {
+          "name": "Cesar Chaves Day",
+          "date": "2020-03-21"
+     },
+     {
+          "name": "Maundy Thursday",
+          "date": "2020-04-01"
+     },
+     {
+          "name": "Pascua Florida Day",
+          "date": "2020-04-02"
+     },
+     {
+          "name": "Holy Saturday",
+          "date": "2020-04-03"
+     },
+     {
+          "name": "Last Day of Passover",
+          "date": "2020-04-04"
+     },
+     {
+          "name": "Easter Sunday",
+          "date": "2020-04-04"
+     },
+     {
+          "name": "National Tartan Day",
+          "date": "2020-04-06"
+     },
+     {
+          "name": "National Library Workers' Day",
+          "date": "2020-04-06"
+     },
+     {
+          "name": "Yom HaShoah",
+          "date": "2020-04-06"
+     },
+     {
+          "name": "Ramadan Starts",
+          "date": "2020-04-13"
+     },
+     {
+          "name": "Thomas Jefferson's Birthday",
+          "date": "2020-04-13"
+     },
+     {
+          "name": "Yom Ha'atzmaut",
+          "date": "2020-04-15"
+     },
+     {
+          "name": "Father Damien Day",
+          "date": "2020-04-15"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2020-04-16"
+     },
+     {
+          "name": "Patriots' Day",
+          "date": "2020-04-19"
+     },
+     {
+          "name": "San Jacinto Day",
+          "date": "2020-04-21"
+     },
+     {
+          "name": "Administrative Professionals Day",
+          "date": "2020-04-21"
+     },
+     {
+          "name": "Oklahoma Day",
+          "date": "2020-04-22"
+     },
+     {
+          "name": "Take our Kids to Work Day",
+          "date": "2020-04-22"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2020-04-26"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2020-04-26"
+     },
+     {
+          "name": "Lag BaOmer",
+          "date": "2020-04-30"
+     },
+     {
+          "name": "Orthodox Good Friday",
+          "date": "2020-04-30"
+     },
+     {
+          "name": "Arbor Day",
+          "date": "2020-04-30"
+     },
+     {
+          "name": "Kentucky Oaks",
+          "date": "2020-04-30"
+     },
+     {
+          "name": "Orthodox Holy Saturday",
+          "date": "2020-05-01"
+     },
+     {
+          "name": "Kentucky Derby",
+          "date": "2020-05-01"
+     },
+     {
+          "name": "Law Day",
+          "date": "2020-05-01"
+     },
+     {
+          "name": "Loyalty Day",
+          "date": "2020-05-01"
+     },
+     {
+          "name": "National Explosive Ordnance Disposal Day",
+          "date": "2020-05-01"
+     },
+     {
+          "name": "Lei Day",
+          "date": "2020-05-01"
+     },
+     {
+          "name": "First Day of Asian Pacific American Heritage Month",
+          "date": "2020-05-01"
+     },
+     {
+          "name": "First Day of Jewish American Heritage Month",
+          "date": "2020-05-01"
+     },
+     {
+          "name": "Orthodox Easter",
+          "date": "2020-05-02"
+     },
+     {
+          "name": "Kent State Shootings Remembrance",
+          "date": "2020-05-04"
+     },
+     {
+          "name": "Rhode Island Independence Day",
+          "date": "2020-05-04"
+     },
+     {
+          "name": "Cinco de Mayo",
+          "date": "2020-05-05"
+     },
+     {
+          "name": "National Nurses Day",
+          "date": "2020-05-06"
+     },
+     {
+          "name": "National Day of Prayer",
+          "date": "2020-05-06"
+     },
+     {
+          "name": "Truman Day Observed",
+          "date": "2020-05-07"
+     },
+     {
+          "name": "Military Spouse Appreciation Day",
+          "date": "2020-05-07"
+     },
+     {
+          "name": "Lailat al-Qadr",
+          "date": "2020-05-08"
+     },
+     {
+          "name": "Truman Day",
+          "date": "2020-05-08"
+     },
+     {
+          "name": "Victory in Europe Day",
+          "date": "2020-05-08"
+     },
+     {
+          "name": "Mother's Day",
+          "date": "2020-05-09"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2020-05-10"
+     },
+     {
+          "name": "Ascension Day",
+          "date": "2020-05-13"
+     },
+     {
+          "name": "Eid al-Fitr",
+          "date": "2020-05-13"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2020-05-14"
+     },
+     {
+          "name": "Peace Officers Memorial Day",
+          "date": "2020-05-15"
+     },
+     {
+          "name": "Armed Forces Day",
+          "date": "2020-05-15"
+     },
+     {
+          "name": "Preakness Stakes",
+          "date": "2020-05-15"
+     },
+     {
+          "name": "Shavout",
+          "date": "2020-05-17"
+     },
+     {
+          "name": "Tax Day",
+          "date": "2020-05-17"
+     },
+     {
+          "name": "Emergency Medical Services for Children Day",
+          "date": "2020-05-19"
+     },
+     {
+          "name": "National Defense Transportation Day",
+          "date": "2020-05-21"
+     },
+     {
+          "name": "National Maritime Day",
+          "date": "2020-05-22"
+     },
+     {
+          "name": "Harvey Milk Day",
+          "date": "2020-05-22"
+     },
+     {
+          "name": "Pentecost",
+          "date": "2020-05-23"
+     },
+     {
+          "name": "Whit Monday",
+          "date": "2020-05-24"
+     },
+     {
+          "name": "National Missing Children's Day",
+          "date": "2020-05-25"
+     },
+     {
+          "name": "Trinity Sunday",
+          "date": "2020-05-30"
+     },
+     {
+          "name": "Memorial Day",
+          "date": "2020-05-31"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2020-05-31"
+     },
+     {
+          "name": "First Day of Pride Month",
+          "date": "2020-06-01"
+     },
+     {
+          "name": "First Day of Caribbean American Heritage Month",
+          "date": "2020-06-01"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2020-06-01"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2020-06-02"
+     },
+     {
+          "name": "Corpus Christi",
+          "date": "2020-06-03"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2020-06-03"
+     },
+     {
+          "name": "Belmont Stakes",
+          "date": "2020-06-05"
+     },
+     {
+          "name": "D-Day",
+          "date": "2020-06-06"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2020-06-07"
+     },
+     {
+          "name": "Kamehameha Day",
+          "date": "2020-06-11"
+     },
+     {
+          "name": "Loving Day",
+          "date": "2020-06-12"
+     },
+     {
+          "name": "Bunker Hill Day",
+          "date": "2020-06-13"
+     },
+     {
+          "name": "Army Birthday",
+          "date": "2020-06-14"
+     },
+     {
+          "name": "Flag Day",
+          "date": "2020-06-14"
+     },
+     {
+          "name": "Juneteenth",
+          "date": "2020-06-19"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2020-06-19"
+     },
+     {
+          "name": "Father's Day",
+          "date": "2020-06-20"
+     },
+     {
+          "name": "West Virginia Day",
+          "date": "2020-06-20"
+     },
+     {
+          "name": "American Eagle Day",
+          "date": "2020-06-20"
+     },
+     {
+          "name": "June Solstice",
+          "date": "2020-06-20"
+     },
+     {
+          "name": "Independence Day",
+          "date": "2020-07-04"
+     },
+     {
+          "name": "Nathan Bedford Forrest Day",
+          "date": "2020-07-13"
+     },
+     {
+          "name": "Bastille Day",
+          "date": "2020-07-14"
+     },
+     {
+          "name": "Rural Transit Day",
+          "date": "2020-07-16"
+     },
+     {
+          "name": "Tisha B'Av",
+          "date": "2020-07-18"
+     },
+     {
+          "name": "Eid al-Adha",
+          "date": "2020-07-22"
+     },
+     {
+          "name": "Pioneer Day",
+          "date": "2020-07-24"
+     },
+     {
+          "name": "National Korean War Veterans Armistice Day",
+          "date": "2020-07-27"
+     },
+     {
+          "name": "Colorado Day",
+          "date": "2020-08-01"
+     },
+     {
+          "name": "Coast Guard Birthday",
+          "date": "2020-08-04"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2020-08-04"
+     },
+     {
+          "name": "Purple Heart Day",
+          "date": "2020-08-07"
+     },
+     {
+          "name": "Victory Day",
+          "date": "2020-08-09"
+     },
+     {
+          "name": "Muharram",
+          "date": "2020-08-10"
+     },
+     {
+          "name": "Assumption of Mary",
+          "date": "2020-08-15"
+     },
+     {
+          "name": "National Senior Citizens Day",
+          "date": "2020-08-15"
+     },
+     {
+          "name": "Bennington Battle Day",
+          "date": "2020-08-16"
+     },
+     {
+          "name": "Ashura",
+          "date": "2020-08-19"
+     },
+     {
+          "name": "National Aviation Day",
+          "date": "2020-08-19"
+     },
+     {
+          "name": "Hawaii Statehood Day",
+          "date": "2020-08-26"
+     },
+     {
+          "name": "Raksha Bandhan",
+          "date": "2020-08-21"
+     },
+     {
+          "name": "Women's Equality Day",
+          "date": "2020-08-26"
+     },
+     {
+          "name": "Lyndon Baines Johnson Day",
+          "date": "2020-08-27"
+     },
+     {
+          "name": "Labor Day",
+          "date": "2020-09-06"
+     },
+     {
+          "name": "Rosh Hashana",
+          "date": "2020-09-07"
+     },
+     {
+          "name": "California Admission Day",
+          "date": "2020-09-09"
+     },
+     {
+          "name": "Ganesh Chaturthi",
+          "date": "2020-09-10"
+     },
+     {
+          "name": "First Responders Day",
+          "date": "2020-09-11"
+     },
+     {
+          "name": "Patriot Day",
+          "date": "2020-09-11"
+     },
+     {
+          "name": "Carl Gamer Federal Lands Cleanup Day",
+          "date": "2020-09-11"
+     },
+     {
+          "name": "National Grandparents Day",
+          "date": "2020-09-12"
+     },
+     {
+          "name": "Yom Kippur",
+          "date": "2020-09-16"
+     },
+     {
+          "name": "Constitution and Citizenship Day",
+          "date": "2020-09-17"
+     },
+     {
+          "name": "National POW/MIA Recognition Day",
+          "date": "2020-09-17"
+     },
+     {
+          "name": "Air Force Birthday",
+          "date": "2020-09-18"
+     },
+     {
+          "name": "National CleanUp Day",
+          "date": "2020-09-18"
+     },
+     {
+          "name": "First Day of Sukkot",
+          "date": "2020-09-21"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2020-09-22"
+     },
+     {
+          "name": "September Equinox",
+          "date": "2020-09-22"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2020-09-24"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2020-09-24"
+     },
+     {
+          "name": "Michigan Indian Day",
+          "date": "2020-09-24"
+     },
+     {
+          "name": "Gold Star Mother's Day",
+          "date": "2020-09-26"
+     },
+     {
+          "name": "Last Day of Sukkot",
+          "date": "2020-09-27"
+     },
+     {
+          "name": "American Indian Day",
+          "date": "2020-09-27"
+     },
+     {
+          "name": "Simchat Torah",
+          "date": "2020-09-29"
+     },
+     {
+          "name": "Feast of St. Francis of Assisi",
+          "date": "2020-10-04"
+     },
+     {
+          "name": "Frances Xavier Cabrini Day",
+          "date": "2020-10-04"
+     },
+     {
+          "name": "Child Health Day",
+          "date": "2020-10-04"
+     },
+     {
+          "name": "Leif Erikson Day",
+          "date": "2020-10-09"
+     },
+     {
+          "name": "Columbus Day",
+          "date": "2020-10-11"
+     },
+     {
+          "name": "Fraternal Day",
+          "date": "2020-10-11"
+     },
+     {
+          "name": "Yorktown Victory Day",
+          "date": "2020-10-11"
+     },
+     {
+          "name": "Discoverers' Day",
+          "date": "2020-10-11"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2020-10-11"
+     },
+     {
+          "name": "Indigenous People's Day",
+          "date": "2020-10-11"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2020-10-11"
+     },
+     {
+          "name": "Navy Birthday",
+          "date": "2020-10-13"
+     },
+     {
+          "name": "Dussehra",
+          "date": "2020-10-14"
+     },
+     {
+          "name": "White Cane Safety Day",
+          "date": "2020-10-15"
+     },
+     {
+          "name": "Boss's Day",
+          "date": "2020-10-15"
+     },
+     {
+          "name": "Sweetest Day",
+          "date": "2020-10-16"
+     },
+     {
+          "name": "Alaska Day",
+          "date": "2020-10-18"
+     },
+     {
+          "name": "The Prophet's Birthday",
+          "date": "2020-10-19"
+     },
+     {
+          "name": "Nevada Day",
+          "date": "2020-10-29"
+     },
+     {
+          "name": "Halloween",
+          "date": "2020-10-31"
+     },
+     {
+          "name": "All Saint's Day",
+          "date": "2020-11-01"
+     },
+     {
+          "name": "First Day of Native American Heritage Month",
+          "date": "2020-11-01"
+     },
+     {
+          "name": "All Soul's Day",
+          "date": "2020-11-02"
+     },
+     {
+          "name": "Election Day",
+          "date": "2020-11-02"
+     },
+     {
+          "name": "Diwali/Deepavali",
+          "date": "2020-11-04"
+     },
+     {
+          "name": "Daylight Savings Time Ends",
+          "date": "2020-11-07"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2020-11-08"
+     },
+     {
+          "name": "Marine Corps Birthday",
+          "date": "2020-11-10"
+     },
+     {
+          "name": "Veterans Day",
+          "date": "2020-11-11"
+     },
+     {
+          "name": "Thanksgiving Day",
+          "date": "2020-11-25"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2020-11-26"
+     },
+     {
+          "name": "Black Friday",
+          "date": "2020-11-26"
+     },
+     {
+          "name": "Native American Heritage Day",
+          "date": "2020-11-26"
+     },
+     {
+          "name": "First Sunday of Advent",
+          "date": "2020-11-28"
+     },
+     {
+          "name": "Chanukah/Hanukkah",
+          "date": "2020-11-29"
+     },
+     {
+          "name": "Cyber Monday",
+          "date": "2020-11-29"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2020-12-01"
+     },
+     {
+          "name": "Last Day of Chanukah",
+          "date": "2020-12-06"
+     },
+     {
+          "name": "St. Nicholas Day",
+          "date": "2020-12-06"
+     },
+     {
+          "name": "Pearl Harbor Remembrance Day",
+          "date": "2020-12-07"
+     },
+     {
+          "name": "Feast of the Immaculate Conception",
+          "date": "2020-12-08"
+     },
+     {
+          "name": "Feast of Our Lady of Guadalupe",
+          "date": "2020-12-12"
+     },
+     {
+          "name": "National Guard Birthday",
+          "date": "2020-12-13"
+     },
+     {
+          "name": "Bill of Rights Day",
+          "date": "2020-12-15"
+     },
+     {
+          "name": "Pan American Aviation Day",
+          "date": "2020-12-17"
+     },
+     {
+          "name": "Wright Brothers Day",
+          "date": "2020-12-17"
+     },
+     {
+          "name": "December Solstice",
+          "date": "2020-12-21"
+     },
+     {
+          "name": "Washington's Birthday",
+          "date": "2020-12-23"
+     },
+     {
+          "name": "Christmas Eve",
+          "date": "2020-12-24"
+     },
+     {
+          "name": "Christmas Day",
+          "date": "2020-12-25"
+     },
+     {
+          "name": "Kwanzaa",
+          "date": "2020-12-26"
+     },
+     {
+          "name": "New Year's Eve",
+          "date": "2020-12-31"
+     },
+     {
+          "name": "New Year's Day",
+          "date": "2021-01-01"
+     },
+     {
+          "name": "Epiphany",
+          "date": "2021-01-06"
+     },
+     {
+          "name": "Orthodox Christmas Day",
+          "date": "2021-01-07"
+     },
+     {
+          "name": "Stephen Foster Memorial",
+          "date": "2021-01-13"
+     },
+     {
+          "name": "Orthodox New Year",
+          "date": "2021-01-14"
+     },
+     {
+          "name": "Martin Luther King Jr. Day",
+          "date": "2021-01-18"
+     },
+     {
+          "name": "Robert E. Lee's Birthday",
+          "date": "2021-01-18"
+     },
+     {
+          "name": "Idaho Human Rights Day",
+          "date": "2021-01-18"
+     },
+     {
+          "name": "Civil Rights Day",
+          "date": "2021-01-18"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2021-01-19"
+     },
+     {
+          "name": "Inauguration Day",
+          "date": "2021-01-20"
+     },
+     {
+          "name": "Tu Bishvat",
+          "date": "2021-01-28"
+     },
+     {
+          "name": "Kansas Day",
+          "date": "2021-01-29"
+     },
+     {
+          "name": "National Freedom Day",
+          "date": "2021-02-01"
+     },
+     {
+          "name": "First Day of Black History Month",
+          "date": "2021-02-01"
+     },
+     {
+          "name": "Groundhog Day",
+          "date": "2021-02-02"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2021-02-04"
+     },
+     {
+          "name": "National Wear Red Day",
+          "date": "2021-02-05"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2021-02-12"
+     },
+     {
+          "name": "Chinese New Year",
+          "date": "2021-02-12"
+     },
+     {
+          "name": "Valentine's Day",
+          "date": "2021-02-14"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2021-02-14"
+     },
+     {
+          "name": "President's Day",
+          "date": "2021-02-15"
+     },
+     {
+          "name": "Daisy Gatson Bates Day",
+          "date": "2021-02-15"
+     },
+     {
+          "name": "Susan B. Anthony Birthday",
+          "date": "2021-02-15"
+     },
+     {
+          "name": "Mardi Gras",
+          "date": "2021-02-16"
+     },
+     {
+          "name": "Elizabeth Peratrovich Day",
+          "date": "2021-02-16"
+     },
+     {
+          "name": "Ash Wednesday",
+          "date": "2021-02-17"
+     },
+     {
+          "name": "George Rogers Clark Day",
+          "date": "2021-02-25"
+     },
+     {
+          "name": "Purim",
+          "date": "2021-02-26"
+     },
+     {
+          "name": "Linus Pauling Day",
+          "date": "2021-02-28"
+     },
+     {
+          "name": "St. David's Day",
+          "date": "2021-03-01"
+     },
+     {
+          "name": "Casimir Pulaski Day",
+          "date": "2021-03-01"
+     },
+     {
+          "name": "First Day of Women's History Month",
+          "date": "2021-03-01"
+     },
+     {
+          "name": "First Day of Irish Ammerican Heritage Month",
+          "date": "2021-03-01"
+     },
+     {
+          "name": "Texas Independence Day",
+          "date": "2021-03-02"
+     },
+     {
+          "name": "Read Across America Day",
+          "date": "2021-02-02"
+     },
+     {
+          "name": "Town Meeting Day",
+          "date": "2021-02-02"
+     },
+     {
+          "name": "Employee Appreciation Day",
+          "date": "2021-03-05"
+     },
+     {
+          "name": "Maha Shivaratri",
+          "date": "2021-03-11"
+     },
+     {
+          "name": "Isra and Mi'raj",
+          "date": "2021-03-11"
+     },
+     {
+          "name": "Davlight Savings Time Starts",
+          "date": "2021-03-14"
+     },
+     {
+          "name": "St. Patrick's Day",
+          "date": "2021-03-17"
+     },
+     {
+          "name": "Evacuation Day",
+          "date": "2021-03-17"
+     },
+     {
+          "name": "March Equinox",
+          "date": "2021-03-20"
+     },
+     {
+          "name": "Maryland Day",
+          "date": "2021-03-25"
+     },
+     {
+          "name": "Prince Jonah Kuhio Kalanianaole Day",
+          "date": "2021-03-26"
+     },
+     {
+          "name": "Passover Eve",
+          "date": "2021-03-27"
+     },
+     {
+          "name": "Palm Sunday",
+          "date": "2021-03-28"
+     },
+     {
+          "name": "Holi",
+          "date": "2021-03-28"
+     },
+     {
+          "name": "Passover (first day)",
+          "date": "2021-03-28"
+     },
+     {
+          "name": "Seward's Day",
+          "date": "2021-03-29"
+     },
+     {
+          "name": "National Vietnam War Veterans Day",
+          "date": "2021-03-29"
+     },
+     {
+          "name": "Doctor's Day",
+          "date": "2021-03-30"
+     },
+     {
+          "name": "Cesar Chaves Day",
+          "date": "2021-03-21"
+     },
+     {
+          "name": "Maundy Thursday",
+          "date": "2021-04-01"
+     },
+     {
+          "name": "Pascua Florida Day",
+          "date": "2021-04-02"
+     },
+     {
+          "name": "Holy Saturday",
+          "date": "2021-04-03"
+     },
+     {
+          "name": "Last Day of Passover",
+          "date": "2021-04-04"
+     },
+     {
+          "name": "Easter Sunday",
+          "date": "2021-04-04"
+     },
+     {
+          "name": "National Tartan Day",
+          "date": "2021-04-06"
+     },
+     {
+          "name": "National Library Workers' Day",
+          "date": "2021-04-06"
+     },
+     {
+          "name": "Yom HaShoah",
+          "date": "2021-04-06"
+     },
+     {
+          "name": "Ramadan Starts",
+          "date": "2021-04-13"
+     },
+     {
+          "name": "Thomas Jefferson's Birthday",
+          "date": "2021-04-13"
+     },
+     {
+          "name": "Yom Ha'atzmaut",
+          "date": "2021-04-15"
+     },
+     {
+          "name": "Father Damien Day",
+          "date": "2021-04-15"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2021-04-16"
+     },
+     {
+          "name": "Patriots' Day",
+          "date": "2021-04-19"
+     },
+     {
+          "name": "San Jacinto Day",
+          "date": "2021-04-21"
+     },
+     {
+          "name": "Administrative Professionals Day",
+          "date": "2021-04-21"
+     },
+     {
+          "name": "Oklahoma Day",
+          "date": "2021-04-22"
+     },
+     {
+          "name": "Take our Kids to Work Day",
+          "date": "2021-04-22"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2021-04-26"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2021-04-26"
+     },
+     {
+          "name": "Lag BaOmer",
+          "date": "2021-04-30"
+     },
+     {
+          "name": "Orthodox Good Friday",
+          "date": "2021-04-30"
+     },
+     {
+          "name": "Arbor Day",
+          "date": "2021-04-30"
+     },
+     {
+          "name": "Kentucky Oaks",
+          "date": "2021-04-30"
+     },
+     {
+          "name": "Orthodox Holy Saturday",
+          "date": "2021-05-01"
+     },
+     {
+          "name": "Kentucky Derby",
+          "date": "2021-05-01"
+     },
+     {
+          "name": "Law Day",
+          "date": "2021-05-01"
+     },
+     {
+          "name": "Loyalty Day",
+          "date": "2021-05-01"
+     },
+     {
+          "name": "National Explosive Ordnance Disposal Day",
+          "date": "2021-05-01"
+     },
+     {
+          "name": "Lei Day",
+          "date": "2021-05-01"
+     },
+     {
+          "name": "First Day of Asian Pacific American Heritage Month",
+          "date": "2021-05-01"
+     },
+     {
+          "name": "First Day of Jewish American Heritage Month",
+          "date": "2021-05-01"
+     },
+     {
+          "name": "Orthodox Easter",
+          "date": "2021-05-02"
+     },
+     {
+          "name": "Kent State Shootings Remembrance",
+          "date": "2021-05-04"
+     },
+     {
+          "name": "Rhode Island Independence Day",
+          "date": "2021-05-04"
+     },
+     {
+          "name": "Cinco de Mayo",
+          "date": "2021-05-05"
+     },
+     {
+          "name": "National Nurses Day",
+          "date": "2021-05-06"
+     },
+     {
+          "name": "National Day of Prayer",
+          "date": "2021-05-06"
+     },
+     {
+          "name": "Truman Day Observed",
+          "date": "2021-05-07"
+     },
+     {
+          "name": "Military Spouse Appreciation Day",
+          "date": "2021-05-07"
+     },
+     {
+          "name": "Lailat al-Qadr",
+          "date": "2021-05-08"
+     },
+     {
+          "name": "Truman Day",
+          "date": "2021-05-08"
+     },
+     {
+          "name": "Victory in Europe Day",
+          "date": "2021-05-08"
+     },
+     {
+          "name": "Mother's Day",
+          "date": "2021-05-09"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2021-05-10"
+     },
+     {
+          "name": "Ascension Day",
+          "date": "2021-05-13"
+     },
+     {
+          "name": "Eid al-Fitr",
+          "date": "2021-05-13"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2021-05-14"
+     },
+     {
+          "name": "Peace Officers Memorial Day",
+          "date": "2021-05-15"
+     },
+     {
+          "name": "Armed Forces Day",
+          "date": "2021-05-15"
+     },
+     {
+          "name": "Preakness Stakes",
+          "date": "2021-05-15"
+     },
+     {
+          "name": "Shavout",
+          "date": "2021-05-17"
+     },
+     {
+          "name": "Tax Day",
+          "date": "2021-05-17"
+     },
+     {
+          "name": "Emergency Medical Services for Children Day",
+          "date": "2021-05-19"
+     },
+     {
+          "name": "National Defense Transportation Day",
+          "date": "2021-05-21"
+     },
+     {
+          "name": "National Maritime Day",
+          "date": "2021-05-22"
+     },
+     {
+          "name": "Harvey Milk Day",
+          "date": "2021-05-22"
+     },
+     {
+          "name": "Pentecost",
+          "date": "2021-05-23"
+     },
+     {
+          "name": "Whit Monday",
+          "date": "2021-05-24"
+     },
+     {
+          "name": "National Missing Children's Day",
+          "date": "2021-05-25"
+     },
+     {
+          "name": "Trinity Sunday",
+          "date": "2021-05-30"
+     },
+     {
+          "name": "Memorial Day",
+          "date": "2021-05-31"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2021-05-31"
+     },
+     {
+          "name": "First Day of Pride Month",
+          "date": "2021-06-01"
+     },
+     {
+          "name": "First Day of Caribbean American Heritage Month",
+          "date": "2021-06-01"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2021-06-01"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2021-06-02"
+     },
+     {
+          "name": "Corpus Christi",
+          "date": "2021-06-03"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2021-06-03"
+     },
+     {
+          "name": "Belmont Stakes",
+          "date": "2021-06-05"
+     },
+     {
+          "name": "D-Day",
+          "date": "2021-06-06"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2021-06-07"
+     },
+     {
+          "name": "Kamehameha Day",
+          "date": "2021-06-11"
+     },
+     {
+          "name": "Loving Day",
+          "date": "2021-06-12"
+     },
+     {
+          "name": "Bunker Hill Day",
+          "date": "2021-06-13"
+     },
+     {
+          "name": "Army Birthday",
+          "date": "2021-06-14"
+     },
+     {
+          "name": "Flag Day",
+          "date": "2021-06-14"
+     },
+     {
+          "name": "Juneteenth",
+          "date": "2021-06-19"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2021-06-19"
+     },
+     {
+          "name": "Father's Day",
+          "date": "2021-06-20"
+     },
+     {
+          "name": "West Virginia Day",
+          "date": "2021-06-20"
+     },
+     {
+          "name": "American Eagle Day",
+          "date": "2021-06-20"
+     },
+     {
+          "name": "June Solstice",
+          "date": "2021-06-20"
+     },
+     {
+          "name": "Independence Day",
+          "date": "2021-07-04"
+     },
+     {
+          "name": "Nathan Bedford Forrest Day",
+          "date": "2021-07-13"
+     },
+     {
+          "name": "Bastille Day",
+          "date": "2021-07-14"
+     },
+     {
+          "name": "Rural Transit Day",
+          "date": "2021-07-16"
+     },
+     {
+          "name": "Tisha B'Av",
+          "date": "2021-07-18"
+     },
+     {
+          "name": "Eid al-Adha",
+          "date": "2021-07-22"
+     },
+     {
+          "name": "Pioneer Day",
+          "date": "2021-07-24"
+     },
+     {
+          "name": "National Korean War Veterans Armistice Day",
+          "date": "2021-07-27"
+     },
+     {
+          "name": "Colorado Day",
+          "date": "2021-08-01"
+     },
+     {
+          "name": "Coast Guard Birthday",
+          "date": "2021-08-04"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2021-08-04"
+     },
+     {
+          "name": "Purple Heart Day",
+          "date": "2021-08-07"
+     },
+     {
+          "name": "Victory Day",
+          "date": "2021-08-09"
+     },
+     {
+          "name": "Muharram",
+          "date": "2021-08-10"
+     },
+     {
+          "name": "Assumption of Mary",
+          "date": "2021-08-15"
+     },
+     {
+          "name": "National Senior Citizens Day",
+          "date": "2021-08-15"
+     },
+     {
+          "name": "Bennington Battle Day",
+          "date": "2021-08-16"
+     },
+     {
+          "name": "Ashura",
+          "date": "2021-08-19"
+     },
+     {
+          "name": "National Aviation Day",
+          "date": "2021-08-19"
+     },
+     {
+          "name": "Hawaii Statehood Day",
+          "date": "2021-08-26"
+     },
+     {
+          "name": "Raksha Bandhan",
+          "date": "2021-08-21"
+     },
+     {
+          "name": "Women's Equality Day",
+          "date": "2021-08-26"
+     },
+     {
+          "name": "Lyndon Baines Johnson Day",
+          "date": "2021-08-27"
+     },
+     {
+          "name": "Labor Day",
+          "date": "2021-09-06"
+     },
+     {
+          "name": "Rosh Hashana",
+          "date": "2021-09-07"
+     },
+     {
+          "name": "California Admission Day",
+          "date": "2021-09-09"
+     },
+     {
+          "name": "Ganesh Chaturthi",
+          "date": "2021-09-10"
+     },
+     {
+          "name": "First Responders Day",
+          "date": "2021-09-11"
+     },
+     {
+          "name": "Patriot Day",
+          "date": "2021-09-11"
+     },
+     {
+          "name": "Carl Gamer Federal Lands Cleanup Day",
+          "date": "2021-09-11"
+     },
+     {
+          "name": "National Grandparents Day",
+          "date": "2021-09-12"
+     },
+     {
+          "name": "Yom Kippur",
+          "date": "2021-09-16"
+     },
+     {
+          "name": "Constitution and Citizenship Day",
+          "date": "2021-09-17"
+     },
+     {
+          "name": "National POW/MIA Recognition Day",
+          "date": "2021-09-17"
+     },
+     {
+          "name": "Air Force Birthday",
+          "date": "2021-09-18"
+     },
+     {
+          "name": "National CleanUp Day",
+          "date": "2021-09-18"
+     },
+     {
+          "name": "First Day of Sukkot",
+          "date": "2021-09-21"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2021-09-22"
+     },
+     {
+          "name": "September Equinox",
+          "date": "2021-09-22"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2021-09-24"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2021-09-24"
+     },
+     {
+          "name": "Michigan Indian Day",
+          "date": "2021-09-24"
+     },
+     {
+          "name": "Gold Star Mother's Day",
+          "date": "2021-09-26"
+     },
+     {
+          "name": "Last Day of Sukkot",
+          "date": "2021-09-27"
+     },
+     {
+          "name": "American Indian Day",
+          "date": "2021-09-27"
+     },
+     {
+          "name": "Simchat Torah",
+          "date": "2021-09-29"
+     },
+     {
+          "name": "Feast of St. Francis of Assisi",
+          "date": "2021-10-04"
+     },
+     {
+          "name": "Frances Xavier Cabrini Day",
+          "date": "2021-10-04"
+     },
+     {
+          "name": "Child Health Day",
+          "date": "2021-10-04"
+     },
+     {
+          "name": "Leif Erikson Day",
+          "date": "2021-10-09"
+     },
+     {
+          "name": "Columbus Day",
+          "date": "2021-10-11"
+     },
+     {
+          "name": "Fraternal Day",
+          "date": "2021-10-11"
+     },
+     {
+          "name": "Yorktown Victory Day",
+          "date": "2021-10-11"
+     },
+     {
+          "name": "Discoverers' Day",
+          "date": "2021-10-11"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2021-10-11"
+     },
+     {
+          "name": "Indigenous People's Day",
+          "date": "2021-10-11"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2021-10-11"
+     },
+     {
+          "name": "Navy Birthday",
+          "date": "2021-10-13"
+     },
+     {
+          "name": "Dussehra",
+          "date": "2021-10-14"
+     },
+     {
+          "name": "White Cane Safety Day",
+          "date": "2021-10-15"
+     },
+     {
+          "name": "Boss's Day",
+          "date": "2021-10-15"
+     },
+     {
+          "name": "Sweetest Day",
+          "date": "2021-10-16"
+     },
+     {
+          "name": "Alaska Day",
+          "date": "2021-10-18"
+     },
+     {
+          "name": "The Prophet's Birthday",
+          "date": "2021-10-19"
+     },
+     {
+          "name": "Nevada Day",
+          "date": "2021-10-29"
+     },
+     {
+          "name": "Halloween",
+          "date": "2021-10-31"
+     },
+     {
+          "name": "All Saint's Day",
+          "date": "2021-11-01"
+     },
+     {
+          "name": "First Day of Native American Heritage Month",
+          "date": "2021-11-01"
+     },
+     {
+          "name": "All Soul's Day",
+          "date": "2021-11-02"
+     },
+     {
+          "name": "Election Day",
+          "date": "2021-11-02"
+     },
+     {
+          "name": "Diwali/Deepavali",
+          "date": "2021-11-04"
+     },
+     {
+          "name": "Daylight Savings Time Ends",
+          "date": "2021-11-07"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2021-11-08"
+     },
+     {
+          "name": "Marine Corps Birthday",
+          "date": "2021-11-10"
+     },
+     {
+          "name": "Veterans Day",
+          "date": "2021-11-11"
+     },
+     {
+          "name": "Thanksgiving Day",
+          "date": "2021-11-25"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2021-11-26"
+     },
+     {
+          "name": "Black Friday",
+          "date": "2021-11-26"
+     },
+     {
+          "name": "Native American Heritage Day",
+          "date": "2021-11-26"
+     },
+     {
+          "name": "First Sunday of Advent",
+          "date": "2021-11-28"
+     },
+     {
+          "name": "Chanukah/Hanukkah",
+          "date": "2021-11-29"
+     },
+     {
+          "name": "Cyber Monday",
+          "date": "2021-11-29"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2021-12-01"
+     },
+     {
+          "name": "Last Day of Chanukah",
+          "date": "2021-12-06"
+     },
+     {
+          "name": "St. Nicholas Day",
+          "date": "2021-12-06"
+     },
+     {
+          "name": "Pearl Harbor Remembrance Day",
+          "date": "2021-12-07"
+     },
+     {
+          "name": "Feast of the Immaculate Conception",
+          "date": "2021-12-08"
+     },
+     {
+          "name": "Feast of Our Lady of Guadalupe",
+          "date": "2021-12-12"
+     },
+     {
+          "name": "National Guard Birthday",
+          "date": "2021-12-13"
+     },
+     {
+          "name": "Bill of Rights Day",
+          "date": "2021-12-15"
+     },
+     {
+          "name": "Pan American Aviation Day",
+          "date": "2021-12-17"
+     },
+     {
+          "name": "Wright Brothers Day",
+          "date": "2021-12-17"
+     },
+     {
+          "name": "December Solstice",
+          "date": "2021-12-21"
+     },
+     {
+          "name": "Washington's Birthday",
+          "date": "2021-12-23"
+     },
+     {
+          "name": "Christmas Eve",
+          "date": "2021-12-24"
+     },
+     {
+          "name": "Christmas Day",
+          "date": "2021-12-25"
+     },
+     {
+          "name": "Kwanzaa",
+          "date": "2021-12-26"
+     },
+     {
+          "name": "New Year's Eve",
+          "date": "2021-12-31"
+     },
+     {
+          "name": "New Year's Day",
+          "date": "2022-01-01"
+     },
+     {
+          "name": "Epiphany",
+          "date": "2022-01-06"
+     },
+     {
+          "name": "Orthodox Christmas Day",
+          "date": "2022-01-07"
+     },
+     {
+          "name": "Margaret Thatcher Day",
+          "date": "2022-01-10"
+     },
+     {
+          "name": "World Sketchnote Day",
+          "date": "2022-01-11"
+     },
+     {
+          "name": "Zanzibar Revolution Day",
+          "date": "2022-01-12"
+     },
+     {
+          "name": "National Rubber Ducky Day",
+          "date": "2022-01-13"
+     },
+     {
+          "name": "Stephen Foster Memorial",
+          "date": "2022-01-13"
+     },
+     {
+          "name": "Tamil Thai Pongdal Day",
+          "date": "2022-01-14"
+     },
+     {
+          "name": "Orthodox New Year",
+          "date": "2022-01-14"
+     },
+     {
+          "name": "National Bagel Day",
+          "date": "2022-01-15"
+     },
+     {
+          "name": "Signing of the Peace Accords",
+          "date": "2022-01-16"
+     },
+     {
+          "name": "Martin Luther King Jr. Day",
+          "date": "2022-01-20"
+     },
+     {
+          "name": "Robert E. Lee's Birthday",
+          "date": "2022-01-20"
+     },
+     {
+          "name": "Idaho Human Rights Day",
+          "date": "2022-01-20"
+     },
+     {
+          "name": "Civil Rights Day",
+          "date": "2022-01-20"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2022-01-19"
+     },
+     {
+          "name": "Kansas Day",
+          "date": "2022-01-29"
+     },
+     {
+          "name": "National Freedom Day",
+          "date": "2022-02-01"
+     },
+     {
+          "name": "First Day of Black History Month",
+          "date": "2022-02-01"
+     },
+     {
+          "name": "Groundhog Day",
+          "date": "2022-02-02"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2022-02-04"
+     },
+     {
+          "name": "National Wear Red Day",
+          "date": "2022-02-07"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2022-02-12"
+     },
+     {
+          "name": "Chinese New Year",
+          "date": "2022-01-25"
+     },
+     {
+          "name": "Valentine's Day",
+          "date": "2022-02-14"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2022-02-14"
+     },
+     {
+          "name": "President's Day",
+          "date": "2022-02-15"
+     },
+     {
+          "name": "Daisy Gatson Bates Day",
+          "date": "2022-02-15"
+     },
+     {
+          "name": "Susan B. Anthony Birthday",
+          "date": "2022-02-15"
+     },
+     {
+          "name": "Mardi Gras",
+          "date": "2022-02-16"
+     },
+     {
+          "name": "Elizabeth Peratrovich Day",
+          "date": "2022-02-16"
+     },
+     {
+          "name": "Ash Wednesday",
+          "date": "2022-02-17"
+     },
+     {
+          "name": "George Rogers Clark Day",
+          "date": "2022-02-25"
+     },
+     {
+          "name": "Purim",
+          "date": "2022-02-26"
+     },
+     {
+          "name": "Linus Pauling Day",
+          "date": "2022-02-28"
+     },
+     {
+          "name": "St. David's Day",
+          "date": "2022-03-01"
+     },
+     {
+          "name": "Casimir Pulaski Day",
+          "date": "2022-03-01"
+     },
+     {
+          "name": "First Day of Women's History Month",
+          "date": "2022-03-01"
+     },
+     {
+          "name": "First Day of Irish Ammerican Heritage Month",
+          "date": "2022-03-01"
+     },
+     {
+          "name": "Texas Independence Day",
+          "date": "2022-03-02"
+     },
+     {
+          "name": "Read Across America Day",
+          "date": "2022-02-02"
+     },
+     {
+          "name": "Town Meeting Day",
+          "date": "2022-02-02"
+     },
+     {
+          "name": "Employee Appreciation Day",
+          "date": "2022-03-05"
+     },
+     {
+          "name": "Maha Shivaratri",
+          "date": "2022-03-11"
+     },
+     {
+          "name": "Isra and Mi'raj",
+          "date": "2022-03-11"
+     },
+     {
+          "name": "Davlight Savings Time Starts",
+          "date": "2022-03-14"
+     },
+     {
+          "name": "St. Patrick's Day",
+          "date": "2022-03-17"
+     },
+     {
+          "name": "Evacuation Day",
+          "date": "2022-03-17"
+     },
+     {
+          "name": "March Equinox",
+          "date": "2022-03-20"
+     },
+     {
+          "name": "Maryland Day",
+          "date": "2022-03-25"
+     },
+     {
+          "name": "Prince Jonah Kuhio Kalanianaole Day",
+          "date": "2022-03-26"
+     },
+     {
+          "name": "Passover Eve",
+          "date": "2022-03-27"
+     },
+     {
+          "name": "Palm Sunday",
+          "date": "2022-03-28"
+     },
+     {
+          "name": "Holi",
+          "date": "2022-03-28"
+     },
+     {
+          "name": "Passover (first day)",
+          "date": "2022-03-28"
+     },
+     {
+          "name": "Seward's Day",
+          "date": "2022-03-29"
+     },
+     {
+          "name": "National Vietnam War Veterans Day",
+          "date": "2022-03-29"
+     },
+     {
+          "name": "Doctor's Day",
+          "date": "2022-03-30"
+     },
+     {
+          "name": "Cesar Chaves Day",
+          "date": "2022-03-21"
+     },
+     {
+          "name": "Maundy Thursday",
+          "date": "2022-04-01"
+     },
+     {
+          "name": "Pascua Florida Day",
+          "date": "2022-04-02"
+     },
+     {
+          "name": "Holy Saturday",
+          "date": "2022-04-03"
+     },
+     {
+          "name": "Last Day of Passover",
+          "date": "2022-04-04"
+     },
+     {
+          "name": "Easter Sunday",
+          "date": "2022-04-04"
+     },
+     {
+          "name": "National Tartan Day",
+          "date": "2022-04-06"
+     },
+     {
+          "name": "National Library Workers' Day",
+          "date": "2022-04-06"
+     },
+     {
+          "name": "Yom HaShoah",
+          "date": "2022-04-06"
+     },
+     {
+          "name": "Ramadan Starts",
+          "date": "2022-04-13"
+     },
+     {
+          "name": "Thomas Jefferson's Birthday",
+          "date": "2022-04-13"
+     },
+     {
+          "name": "Yom Ha'atzmaut",
+          "date": "2022-04-15"
+     },
+     {
+          "name": "Father Damien Day",
+          "date": "2022-04-15"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2022-04-16"
+     },
+     {
+          "name": "Patriots' Day",
+          "date": "2022-04-19"
+     },
+     {
+          "name": "San Jacinto Day",
+          "date": "2022-04-21"
+     },
+     {
+          "name": "Administrative Professionals Day",
+          "date": "2022-04-21"
+     },
+     {
+          "name": "Oklahoma Day",
+          "date": "2022-04-22"
+     },
+     {
+          "name": "Take our Kids to Work Day",
+          "date": "2022-04-22"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2022-04-26"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2022-04-26"
+     },
+     {
+          "name": "Lag BaOmer",
+          "date": "2022-04-30"
+     },
+     {
+          "name": "Orthodox Good Friday",
+          "date": "2022-04-30"
+     },
+     {
+          "name": "Arbor Day",
+          "date": "2022-04-30"
+     },
+     {
+          "name": "Kentucky Oaks",
+          "date": "2022-04-30"
+     },
+     {
+          "name": "Orthodox Holy Saturday",
+          "date": "2022-05-01"
+     },
+     {
+          "name": "Kentucky Derby",
+          "date": "2022-05-01"
+     },
+     {
+          "name": "Law Day",
+          "date": "2022-05-01"
+     },
+     {
+          "name": "Loyalty Day",
+          "date": "2022-05-01"
+     },
+     {
+          "name": "National Explosive Ordnance Disposal Day",
+          "date": "2022-05-01"
+     },
+     {
+          "name": "Lei Day",
+          "date": "2022-05-01"
+     },
+     {
+          "name": "First Day of Asian Pacific American Heritage Month",
+          "date": "2022-05-01"
+     },
+     {
+          "name": "First Day of Jewish American Heritage Month",
+          "date": "2022-05-01"
+     },
+     {
+          "name": "Orthodox Easter",
+          "date": "2022-05-02"
+     },
+     {
+          "name": "Kent State Shootings Remembrance",
+          "date": "2022-05-04"
+     },
+     {
+          "name": "Rhode Island Independence Day",
+          "date": "2022-05-04"
+     },
+     {
+          "name": "Cinco de Mayo",
+          "date": "2022-05-05"
+     },
+     {
+          "name": "National Nurses Day",
+          "date": "2022-05-06"
+     },
+     {
+          "name": "National Day of Prayer",
+          "date": "2022-05-06"
+     },
+     {
+          "name": "Truman Day Observed",
+          "date": "2022-05-07"
+     },
+     {
+          "name": "Military Spouse Appreciation Day",
+          "date": "2022-05-07"
+     },
+     {
+          "name": "Lailat al-Qadr",
+          "date": "2022-05-08"
+     },
+     {
+          "name": "Truman Day",
+          "date": "2022-05-08"
+     },
+     {
+          "name": "Victory in Europe Day",
+          "date": "2022-05-08"
+     },
+     {
+          "name": "Mother's Day",
+          "date": "2022-05-09"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2022-05-10"
+     },
+     {
+          "name": "Ascension Day",
+          "date": "2022-05-13"
+     },
+     {
+          "name": "Eid al-Fitr",
+          "date": "2022-05-13"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2022-05-14"
+     },
+     {
+          "name": "Peace Officers Memorial Day",
+          "date": "2022-05-15"
+     },
+     {
+          "name": "Armed Forces Day",
+          "date": "2022-05-15"
+     },
+     {
+          "name": "Preakness Stakes",
+          "date": "2022-05-15"
+     },
+     {
+          "name": "Shavout",
+          "date": "2022-05-17"
+     },
+     {
+          "name": "Tax Day",
+          "date": "2022-05-17"
+     },
+     {
+          "name": "Emergency Medical Services for Children Day",
+          "date": "2022-05-19"
+     },
+     {
+          "name": "National Defense Transportation Day",
+          "date": "2022-05-21"
+     },
+     {
+          "name": "National Maritime Day",
+          "date": "2022-05-22"
+     },
+     {
+          "name": "Harvey Milk Day",
+          "date": "2022-05-22"
+     },
+     {
+          "name": "Pentecost",
+          "date": "2022-05-23"
+     },
+     {
+          "name": "Whit Monday",
+          "date": "2022-05-24"
+     },
+     {
+          "name": "National Missing Children's Day",
+          "date": "2022-05-25"
+     },
+     {
+          "name": "Trinity Sunday",
+          "date": "2022-05-30"
+     },
+     {
+          "name": "Memorial Day",
+          "date": "2022-05-31"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2022-05-31"
+     },
+     {
+          "name": "First Day of Pride Month",
+          "date": "2022-06-01"
+     },
+     {
+          "name": "First Day of Caribbean American Heritage Month",
+          "date": "2022-06-01"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2022-06-01"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2022-06-02"
+     },
+     {
+          "name": "Corpus Christi",
+          "date": "2022-06-03"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2022-06-03"
+     },
+     {
+          "name": "Belmont Stakes",
+          "date": "2022-06-05"
+     },
+     {
+          "name": "D-Day",
+          "date": "2022-06-06"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2022-06-07"
+     },
+     {
+          "name": "Kamehameha Day",
+          "date": "2022-06-11"
+     },
+     {
+          "name": "Loving Day",
+          "date": "2022-06-12"
+     },
+     {
+          "name": "Bunker Hill Day",
+          "date": "2022-06-13"
+     },
+     {
+          "name": "Army Birthday",
+          "date": "2022-06-14"
+     },
+     {
+          "name": "Flag Day",
+          "date": "2022-06-14"
+     },
+     {
+          "name": "Juneteenth",
+          "date": "2022-06-19"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2022-06-19"
+     },
+     {
+          "name": "Father's Day",
+          "date": "2022-06-20"
+     },
+     {
+          "name": "West Virginia Day",
+          "date": "2022-06-20"
+     },
+     {
+          "name": "American Eagle Day",
+          "date": "2022-06-20"
+     },
+     {
+          "name": "June Solstice",
+          "date": "2022-06-20"
+     },
+     {
+          "name": "Independence Day",
+          "date": "2022-07-04"
+     },
+     {
+          "name": "Nathan Bedford Forrest Day",
+          "date": "2022-07-13"
+     },
+     {
+          "name": "Bastille Day",
+          "date": "2022-07-14"
+     },
+     {
+          "name": "Rural Transit Day",
+          "date": "2022-07-16"
+     },
+     {
+          "name": "Tisha B'Av",
+          "date": "2022-07-18"
+     },
+     {
+          "name": "Eid al-Adha",
+          "date": "2022-07-22"
+     },
+     {
+          "name": "Pioneer Day",
+          "date": "2022-07-24"
+     },
+     {
+          "name": "National Korean War Veterans Armistice Day",
+          "date": "2022-07-27"
+     },
+     {
+          "name": "Colorado Day",
+          "date": "2022-08-01"
+     },
+     {
+          "name": "Coast Guard Birthday",
+          "date": "2022-08-04"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2022-08-04"
+     },
+     {
+          "name": "Purple Heart Day",
+          "date": "2022-08-07"
+     },
+     {
+          "name": "Victory Day",
+          "date": "2022-08-09"
+     },
+     {
+          "name": "Muharram",
+          "date": "2022-08-10"
+     },
+     {
+          "name": "Assumption of Mary",
+          "date": "2022-08-15"
+     },
+     {
+          "name": "National Senior Citizens Day",
+          "date": "2022-08-15"
+     },
+     {
+          "name": "Bennington Battle Day",
+          "date": "2022-08-16"
+     },
+     {
+          "name": "Ashura",
+          "date": "2022-08-19"
+     },
+     {
+          "name": "National Aviation Day",
+          "date": "2022-08-19"
+     },
+     {
+          "name": "Hawaii Statehood Day",
+          "date": "2022-08-26"
+     },
+     {
+          "name": "Raksha Bandhan",
+          "date": "2022-08-21"
+     },
+     {
+          "name": "Women's Equality Day",
+          "date": "2022-08-26"
+     },
+     {
+          "name": "Lyndon Baines Johnson Day",
+          "date": "2022-08-27"
+     },
+     {
+          "name": "Labor Day",
+          "date": "2022-09-06"
+     },
+     {
+          "name": "Rosh Hashana",
+          "date": "2022-09-07"
+     },
+     {
+          "name": "California Admission Day",
+          "date": "2022-09-09"
+     },
+     {
+          "name": "Ganesh Chaturthi",
+          "date": "2022-09-10"
+     },
+     {
+          "name": "California Admission Day",
+          "date": "2022-09-09"
+     },
+     {
+          "name": "Ganesh Chaturthi",
+          "date": "2022-09-10"
+     },
+     {
+          "name": "First Responders Day",
+          "date": "2022-09-11"
+     },
+     {
+          "name": "Patriot Day",
+          "date": "2022-09-11"
+     },
+     {
+          "name": "Carl Gamer Federal Lands Cleanup Day",
+          "date": "2022-09-11"
+     },
+     {
+          "name": "National Grandparents Day",
+          "date": "2022-09-12"
+     },
+     {
+          "name": "Yom Kippur",
+          "date": "2022-09-16"
+     },
+     {
+          "name": "Constitution and Citizenship Day",
+          "date": "2022-09-17"
+     },
+     {
+          "name": "National POW/MIA Recognition Day",
+          "date": "2022-09-17"
+     },
+     {
+          "name": "Air Force Birthday",
+          "date": "2022-09-18"
+     },
+     {
+          "name": "National CleanUp Day",
+          "date": "2022-09-18"
+     },
+     {
+          "name": "First Day of Sukkot",
+          "date": "2022-09-21"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2022-09-22"
+     },
+     {
+          "name": "September Equinox",
+          "date": "2022-09-22"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2022-09-24"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2022-09-24"
+     },
+     {
+          "name": "Michigan Indian Day",
+          "date": "2022-09-24"
+     },
+     {
+          "name": "Gold Star Mother's Day",
+          "date": "2022-09-26"
+     },
+     {
+          "name": "Last Day of Sukkot",
+          "date": "2022-09-27"
+     },
+     {
+          "name": "American Indian Day",
+          "date": "2022-09-27"
+     },
+     {
+          "name": "Simchat Torah",
+          "date": "2022-09-29"
+     },
+     {
+          "name": "Feast of St. Francis of Assisi",
+          "date": "2022-10-04"
+     },
+     {
+          "name": "Frances Xavier Cabrini Day",
+          "date": "2022-10-04"
+     },
+     {
+          "name": "Child Health Day",
+          "date": "2022-10-04"
+     },
+     {
+          "name": "Leif Erikson Day",
+          "date": "2022-10-09"
+     },
+     {
+          "name": "Columbus Day",
+          "date": "2022-10-11"
+     },
+     {
+          "name": "Fraternal Day",
+          "date": "2022-10-11"
+     },
+     {
+          "name": "Yorktown Victory Day",
+          "date": "2022-10-11"
+     },
+     {
+          "name": "Discoverers' Day",
+          "date": "2022-10-11"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2022-10-11"
+     },
+     {
+          "name": "Indigenous People's Day",
+          "date": "2022-10-11"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2022-10-11"
+     },
+     {
+          "name": "Navy Birthday",
+          "date": "2022-10-13"
+     },
+     {
+          "name": "Dussehra",
+          "date": "2022-10-14"
+     },
+     {
+          "name": "White Cane Safety Day",
+          "date": "2022-10-15"
+     },
+     {
+          "name": "Boss's Day",
+          "date": "2022-10-15"
+     },
+     {
+          "name": "Sweetest Day",
+          "date": "2022-10-16"
+     },
+     {
+          "name": "Alaska Day",
+          "date": "2022-10-18"
+     },
+     {
+          "name": "The Prophet's Birthday",
+          "date": "2022-10-19"
+     },
+     {
+          "name": "Nevada Day",
+          "date": "2022-10-29"
+     },
+     {
+          "name": "Halloween",
+          "date": "2022-10-31"
+     },
+     {
+          "name": "All Saint's Day",
+          "date": "2022-11-01"
+     },
+     {
+          "name": "First Day of Native American Heritage Month",
+          "date": "2022-11-01"
+     },
+     {
+          "name": "All Soul's Day",
+          "date": "2022-11-02"
+     },
+     {
+          "name": "Election Day",
+          "date": "2022-11-02"
+     },
+     {
+          "name": "Diwali/Deepavali",
+          "date": "2022-11-04"
+     },
+     {
+          "name": "Daylight Savings Time Ends",
+          "date": "2022-11-07"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2022-11-08"
+     },
+     {
+          "name": "Marine Corps Birthday",
+          "date": "2022-11-10"
+     },
+     {
+          "name": "Veterans Day",
+          "date": "2022-11-11"
+     },
+     {
+          "name": "Thanksgiving Day",
+          "date": "2022-11-25"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2022-11-26"
+     },
+     {
+          "name": "Black Friday",
+          "date": "2022-11-26"
+     },
+     {
+          "name": "Native American Heritage Day",
+          "date": "2022-11-26"
+     },
+     {
+          "name": "First Sunday of Advent",
+          "date": "2022-11-28"
+     },
+     {
+          "name": "Chanukah/Hanukkah",
+          "date": "2022-11-29"
+     },
+     {
+          "name": "Cyber Monday",
+          "date": "2022-11-29"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2022-12-01"
+     },
+     {
+          "name": "Last Day of Chanukah",
+          "date": "2022-12-06"
+     },
+     {
+          "name": "St. Nicholas Day",
+          "date": "2022-12-06"
+     },
+     {
+          "name": "Pearl Harbor Remembrance Day",
+          "date": "2022-12-07"
+     },
+     {
+          "name": "Feast of the Immaculate Conception",
+          "date": "2022-12-08"
+     },
+     {
+          "name": "Feast of Our Lady of Guadalupe",
+          "date": "2022-12-12"
+     },
+     {
+          "name": "National Guard Birthday",
+          "date": "2022-12-13"
+     },
+     {
+          "name": "Bill of Rights Day",
+          "date": "2022-12-15"
+     },
+     {
+          "name": "Pan American Aviation Day",
+          "date": "2022-12-17"
+     },
+     {
+          "name": "Wright Brothers Day",
+          "date": "2022-12-17"
+     },
+     {
+          "name": "December Solstice",
+          "date": "2022-12-21"
+     },
+     {
+          "name": "Washington's Birthday",
+          "date": "2022-12-23"
+     },
+     {
+          "name": "Christmas Eve",
+          "date": "2022-12-24"
+     },
+     {
+          "name": "Christmas Day",
+          "date": "2022-12-25"
+     },
+     {
+          "name": "Kwanzaa",
+          "date": "2022-12-26"
+     },
+     {
+          "name": "New Year's Eve",
+          "date": "2022-12-31"
+     },
+     {
+          "name": "New Year's Day",
+          "date": "2023-01-01"
+     },
+     {
+          "name": "Epiphany",
+          "date": "2023-01-06"
+     },
+     {
+          "name": "Orthodox Christmas Day",
+          "date": "2023-01-07"
+     },
+     {
+          "name": "Margaret Thatcher Day",
+          "date": "2023-01-10"
+     },
+     {
+          "name": "World Sketchnote Day",
+          "date": "2023-01-11"
+     },
+     {
+          "name": "Zanzibar Revolution Day",
+          "date": "2023-01-12"
+     },
+     {
+          "name": "National Rubber Ducky Day",
+          "date": "2023-01-13"
+     },
+     {
+          "name": "Stephen Foster Memorial",
+          "date": "2023-01-13"
+     },
+     {
+          "name": "Tamil Thai Pongdal Day",
+          "date": "2023-01-14"
+     },
+     {
+          "name": "Orthodox New Year",
+          "date": "2023-01-14"
+     },
+     {
+          "name": "National Bagel Day",
+          "date": "2023-01-15"
+     },
+     {
+          "name": "Signing of the Peace Accords",
+          "date": "2023-01-16"
+     },
+     {
+          "name": "Martin Luther King Jr. Day",
+          "date": "2023-01-18"
+     },
+     {
+          "name": "Robert E. Lee's Birthday",
+          "date": "2023-01-18"
+     },
+     {
+          "name": "Idaho Human Rights Day",
+          "date": "2023-01-18"
+     },
+     {
+          "name": "Civil Rights Day",
+          "date": "2023-01-18"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2023-01-19"
+     },
+     {
+          "name": "Inauguration Day",
+          "date": "2023-01-20"
+     },
+     {
+          "name": "Tu Bishvat",
+          "date": "2023-01-28"
+     },
+     {
+          "name": "Kansas Day",
+          "date": "2023-01-29"
+     },
+     {
+          "name": "National Freedom Day",
+          "date": "2023-02-01"
+     },
+     {
+          "name": "First Day of Black History Month",
+          "date": "2023-02-01"
+     },
+     {
+          "name": "Groundhog Day",
+          "date": "2023-02-02"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2023-02-04"
+     },
+     {
+          "name": "National Wear Red Day",
+          "date": "2023-02-05"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2023-02-12"
+     },
+     {
+          "name": "Chinese New Year",
+          "date": "2023-02-12"
+     },
+     {
+          "name": "Valentine's Day",
+          "date": "2023-02-14"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2023-02-14"
+     },
+     {
+          "name": "President's Day",
+          "date": "2023-02-15"
+     },
+     {
+          "name": "Daisy Gatson Bates Day",
+          "date": "2023-02-15"
+     },
+     {
+          "name": "Susan B. Anthony Birthday",
+          "date": "2023-02-15"
+     },
+     {
+          "name": "Mardi Gras",
+          "date": "2023-02-16"
+     },
+     {
+          "name": "Elizabeth Peratrovich Day",
+          "date": "2023-02-16"
+     },
+     {
+          "name": "Ash Wednesday",
+          "date": "2023-02-17"
+     },
+     {
+          "name": "George Rogers Clark Day",
+          "date": "2023-02-25"
+     },
+     {
+          "name": "Purim",
+          "date": "2023-02-26"
+     },
+     {
+          "name": "Linus Pauling Day",
+          "date": "2023-02-28"
+     },
+     {
+          "name": "St. David's Day",
+          "date": "2023-03-01"
+     },
+     {
+          "name": "Casimir Pulaski Day",
+          "date": "2023-03-01"
+     },
+     {
+          "name": "First Day of Women's History Month",
+          "date": "2023-03-01"
+     },
+     {
+          "name": "First Day of Irish Ammerican Heritage Month",
+          "date": "2023-03-01"
+     },
+     {
+          "name": "Texas Independence Day",
+          "date": "2023-03-02"
+     },
+     {
+          "name": "Read Across America Day",
+          "date": "2023-02-02"
+     },
+     {
+          "name": "Town Meeting Day",
+          "date": "2023-02-02"
+     },
+     {
+          "name": "Employee Appreciation Day",
+          "date": "2023-03-05"
+     },
+     {
+          "name": "Maha Shivaratri",
+          "date": "2023-03-11"
+     },
+     {
+          "name": "Isra and Mi'raj",
+          "date": "2023-03-11"
+     },
+     {
+          "name": "Davlight Savings Time Starts",
+          "date": "2023-03-14"
+     },
+     {
+          "name": "St. Patrick's Day",
+          "date": "2023-03-17"
+     },
+     {
+          "name": "Evacuation Day",
+          "date": "2023-03-17"
+     },
+     {
+          "name": "March Equinox",
+          "date": "2023-03-20"
+     },
+     {
+          "name": "Maryland Day",
+          "date": "2023-03-25"
+     },
+     {
+          "name": "Prince Jonah Kuhio Kalanianaole Day",
+          "date": "2023-03-26"
+     },
+     {
+          "name": "Passover Eve",
+          "date": "2023-03-27"
+     },
+     {
+          "name": "Palm Sunday",
+          "date": "2023-03-28"
+     },
+     {
+          "name": "Holi",
+          "date": "2023-03-28"
+     },
+     {
+          "name": "Passover (first day)",
+          "date": "2023-03-28"
+     },
+     {
+          "name": "Seward's Day",
+          "date": "2023-03-29"
+     },
+     {
+          "name": "National Vietnam War Veterans Day",
+          "date": "2023-03-29"
+     },
+     {
+          "name": "Doctor's Day",
+          "date": "2023-03-30"
+     },
+     {
+          "name": "Cesar Chaves Day",
+          "date": "2023-03-21"
+     },
+     {
+          "name": "Maundy Thursday",
+          "date": "2023-04-01"
+     },
+     {
+          "name": "Pascua Florida Day",
+          "date": "2023-04-02"
+     },
+     {
+          "name": "Holy Saturday",
+          "date": "2023-04-03"
+     },
+     {
+          "name": "Last Day of Passover",
+          "date": "2023-04-04"
+     },
+     {
+          "name": "Easter Sunday",
+          "date": "2023-04-04"
+     },
+     {
+          "name": "National Tartan Day",
+          "date": "2023-04-06"
+     },
+     {
+          "name": "National Library Workers' Day",
+          "date": "2023-04-06"
+     },
+     {
+          "name": "Yom HaShoah",
+          "date": "2023-04-06"
+     },
+     {
+          "name": "Ramadan Starts",
+          "date": "2023-04-13"
+     },
+     {
+          "name": "Thomas Jefferson's Birthday",
+          "date": "2023-04-13"
+     },
+     {
+          "name": "Yom Ha'atzmaut",
+          "date": "2023-04-15"
+     },
+     {
+          "name": "Father Damien Day",
+          "date": "2023-04-15"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2023-04-16"
+     },
+     {
+          "name": "Patriots' Day",
+          "date": "2023-04-19"
+     },
+     {
+          "name": "San Jacinto Day",
+          "date": "2023-04-21"
+     },
+     {
+          "name": "Administrative Professionals Day",
+          "date": "2023-04-21"
+     },
+     {
+          "name": "Oklahoma Day",
+          "date": "2023-04-22"
+     },
+     {
+          "name": "Take our Kids to Work Day",
+          "date": "2023-04-22"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2023-04-26"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2023-04-26"
+     },
+     {
+          "name": "Lag BaOmer",
+          "date": "2023-04-30"
+     },
+     {
+          "name": "Orthodox Good Friday",
+          "date": "2023-04-30"
+     },
+     {
+          "name": "Arbor Day",
+          "date": "2023-04-30"
+     },
+     {
+          "name": "Kentucky Oaks",
+          "date": "2023-04-30"
+     },
+     {
+          "name": "Orthodox Holy Saturday",
+          "date": "2023-05-01"
+     },
+     {
+          "name": "Kentucky Derby",
+          "date": "2023-05-01"
+     },
+     {
+          "name": "Law Day",
+          "date": "2023-05-01"
+     },
+     {
+          "name": "Loyalty Day",
+          "date": "2023-05-01"
+     },
+     {
+          "name": "National Explosive Ordnance Disposal Day",
+          "date": "2023-05-01"
+     },
+     {
+          "name": "Lei Day",
+          "date": "2023-05-01"
+     },
+     {
+          "name": "First Day of Asian Pacific American Heritage Month",
+          "date": "2023-05-01"
+     },
+     {
+          "name": "First Day of Jewish American Heritage Month",
+          "date": "2023-05-01"
+     },
+     {
+          "name": "Orthodox Easter",
+          "date": "2023-05-02"
+     },
+     {
+          "name": "Kent State Shootings Remembrance",
+          "date": "2023-05-04"
+     },
+     {
+          "name": "Rhode Island Independence Day",
+          "date": "2023-05-04"
+     },
+     {
+          "name": "Cinco de Mayo",
+          "date": "2023-05-05"
+     },
+     {
+          "name": "National Nurses Day",
+          "date": "2023-05-06"
+     },
+     {
+          "name": "National Day of Prayer",
+          "date": "2023-05-06"
+     },
+     {
+          "name": "Truman Day Observed",
+          "date": "2023-05-07"
+     },
+     {
+          "name": "Military Spouse Appreciation Day",
+          "date": "2023-05-07"
+     },
+     {
+          "name": "Lailat al-Qadr",
+          "date": "2023-05-08"
+     },
+     {
+          "name": "Truman Day",
+          "date": "2023-05-08"
+     },
+     {
+          "name": "Victory in Europe Day",
+          "date": "2023-05-08"
+     },
+     {
+          "name": "Mother's Day",
+          "date": "2023-05-09"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2023-05-10"
+     },
+     {
+          "name": "Ascension Day",
+          "date": "2023-05-13"
+     },
+     {
+          "name": "Eid al-Fitr",
+          "date": "2023-05-13"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2023-05-14"
+     },
+     {
+          "name": "Peace Officers Memorial Day",
+          "date": "2023-05-15"
+     },
+     {
+          "name": "Armed Forces Day",
+          "date": "2023-05-15"
+     },
+     {
+          "name": "Preakness Stakes",
+          "date": "2023-05-15"
+     },
+     {
+          "name": "Shavout",
+          "date": "2023-05-17"
+     },
+     {
+          "name": "Tax Day",
+          "date": "2023-05-17"
+     },
+     {
+          "name": "Emergency Medical Services for Children Day",
+          "date": "2023-05-19"
+     },
+     {
+          "name": "National Defense Transportation Day",
+          "date": "2023-05-21"
+     },
+     {
+          "name": "National Maritime Day",
+          "date": "2023-05-22"
+     },
+     {
+          "name": "Harvey Milk Day",
+          "date": "2023-05-22"
+     },
+     {
+          "name": "Pentecost",
+          "date": "2023-05-23"
+     },
+     {
+          "name": "Whit Monday",
+          "date": "2023-05-24"
+     },
+     {
+          "name": "National Missing Children's Day",
+          "date": "2023-05-25"
+     },
+     {
+          "name": "Trinity Sunday",
+          "date": "2023-05-30"
+     },
+     {
+          "name": "Memorial Day",
+          "date": "2023-05-31"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2023-05-31"
+     },
+     {
+          "name": "First Day of Pride Month",
+          "date": "2023-06-01"
+     },
+     {
+          "name": "First Day of Caribbean American Heritage Month",
+          "date": "2023-06-01"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2023-06-01"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2023-06-02"
+     },
+     {
+          "name": "Corpus Christi",
+          "date": "2023-06-03"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2023-06-03"
+     },
+     {
+          "name": "Belmont Stakes",
+          "date": "2023-06-05"
+     },
+     {
+          "name": "D-Day",
+          "date": "2023-06-06"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2023-06-07"
+     },
+     {
+          "name": "Kamehameha Day",
+          "date": "2023-06-11"
+     },
+     {
+          "name": "Loving Day",
+          "date": "2023-06-12"
+     },
+     {
+          "name": "Bunker Hill Day",
+          "date": "2023-06-13"
+     },
+     {
+          "name": "Army Birthday",
+          "date": "2023-06-14"
+     },
+     {
+          "name": "Flag Day",
+          "date": "2023-06-14"
+     },
+     {
+          "name": "Juneteenth",
+          "date": "2023-06-19"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2023-06-19"
+     },
+     {
+          "name": "Father's Day",
+          "date": "2023-06-20"
+     },
+     {
+          "name": "West Virginia Day",
+          "date": "2023-06-20"
+     },
+     {
+          "name": "American Eagle Day",
+          "date": "2023-06-20"
+     },
+     {
+          "name": "June Solstice",
+          "date": "2023-06-20"
+     },
+     {
+          "name": "Independence Day",
+          "date": "2023-07-04"
+     },
+     {
+          "name": "Nathan Bedford Forrest Day",
+          "date": "2023-07-13"
+     },
+     {
+          "name": "Bastille Day",
+          "date": "2023-07-14"
+     },
+     {
+          "name": "Rural Transit Day",
+          "date": "2023-07-16"
+     },
+     {
+          "name": "Tisha B'Av",
+          "date": "2023-07-18"
+     },
+     {
+          "name": "Eid al-Adha",
+          "date": "2023-07-22"
+     },
+     {
+          "name": "Pioneer Day",
+          "date": "2023-07-24"
+     },
+     {
+          "name": "National Korean War Veterans Armistice Day",
+          "date": "2023-07-27"
+     },
+     {
+          "name": "Colorado Day",
+          "date": "2023-08-01"
+     },
+     {
+          "name": "Coast Guard Birthday",
+          "date": "2023-08-04"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2023-08-04"
+     },
+     {
+          "name": "Purple Heart Day",
+          "date": "2023-08-07"
+     },
+     {
+          "name": "Victory Day",
+          "date": "2023-08-09"
+     },
+     {
+          "name": "Muharram",
+          "date": "2023-08-10"
+     },
+     {
+          "name": "Assumption of Mary",
+          "date": "2023-08-15"
+     },
+     {
+          "name": "National Senior Citizens Day",
+          "date": "2023-08-15"
+     },
+     {
+          "name": "Bennington Battle Day",
+          "date": "2023-08-16"
+     },
+     {
+          "name": "Ashura",
+          "date": "2023-08-19"
+     },
+     {
+          "name": "National Aviation Day",
+          "date": "2023-08-19"
+     },
+     {
+          "name": "Hawaii Statehood Day",
+          "date": "2023-08-26"
+     },
+     {
+          "name": "Raksha Bandhan",
+          "date": "2023-08-21"
+     },
+     {
+          "name": "Women's Equality Day",
+          "date": "2023-08-26"
+     },
+     {
+          "name": "Lyndon Baines Johnson Day",
+          "date": "2023-08-27"
+     },
+     {
+          "name": "Labor Day",
+          "date": "2023-09-06"
+     },
+     {
+          "name": "Rosh Hashana",
+          "date": "2023-09-07"
+     },
+     {
+          "name": "California Admission Day",
+          "date": "2023-09-09"
+     },
+     {
+          "name": "Ganesh Chaturthi",
+          "date": "2023-09-10"
+     },
+     {
+          "name": "First Responders Day",
+          "date": "2023-09-11"
+     },
+     {
+          "name": "Patriot Day",
+          "date": "2023-09-11"
+     },
+     {
+          "name": "Carl Gamer Federal Lands Cleanup Day",
+          "date": "2023-09-11"
+     },
+     {
+          "name": "National Grandparents Day",
+          "date": "2023-09-12"
+     },
+     {
+          "name": "Yom Kippur",
+          "date": "2023-09-16"
+     },
+     {
+          "name": "Constitution and Citizenship Day",
+          "date": "2023-09-17"
+     },
+     {
+          "name": "National POW/MIA Recognition Day",
+          "date": "2023-09-17"
+     },
+     {
+          "name": "Air Force Birthday",
+          "date": "2023-09-18"
+     },
+     {
+          "name": "National CleanUp Day",
+          "date": "2023-09-18"
+     },
+     {
+          "name": "First Day of Sukkot",
+          "date": "2023-09-21"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2023-09-22"
+     },
+     {
+          "name": "September Equinox",
+          "date": "2023-09-22"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2023-09-24"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2023-09-24"
+     },
+     {
+          "name": "Michigan Indian Day",
+          "date": "2023-09-24"
+     },
+     {
+          "name": "Gold Star Mother's Day",
+          "date": "2023-09-26"
+     },
+     {
+          "name": "Last Day of Sukkot",
+          "date": "2023-09-27"
+     },
+     {
+          "name": "American Indian Day",
+          "date": "2023-09-27"
+     },
+     {
+          "name": "Simchat Torah",
+          "date": "2023-09-29"
+     },
+     {
+          "name": "Feast of St. Francis of Assisi",
+          "date": "2023-10-04"
+     },
+     {
+          "name": "Frances Xavier Cabrini Day",
+          "date": "2023-10-04"
+     },
+     {
+          "name": "Child Health Day",
+          "date": "2023-10-04"
+     },
+     {
+          "name": "Leif Erikson Day",
+          "date": "2023-10-09"
+     },
+     {
+          "name": "Columbus Day",
+          "date": "2023-10-11"
+     },
+     {
+          "name": "Fraternal Day",
+          "date": "2023-10-11"
+     },
+     {
+          "name": "Yorktown Victory Day",
+          "date": "2023-10-11"
+     },
+     {
+          "name": "Discoverers' Day",
+          "date": "2023-10-11"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2023-10-11"
+     },
+     {
+          "name": "Indigenous People's Day",
+          "date": "2023-10-11"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2023-10-11"
+     },
+     {
+          "name": "Navy Birthday",
+          "date": "2023-10-13"
+     },
+     {
+          "name": "Dussehra",
+          "date": "2023-10-14"
+     },
+     {
+          "name": "White Cane Safety Day",
+          "date": "2023-10-15"
+     },
+     {
+          "name": "Boss's Day",
+          "date": "2023-10-15"
+     },
+     {
+          "name": "Sweetest Day",
+          "date": "2023-10-16"
+     },
+     {
+          "name": "Alaska Day",
+          "date": "2023-10-18"
+     },
+     {
+          "name": "The Prophet's Birthday",
+          "date": "2023-10-19"
+     },
+     {
+          "name": "Nevada Day",
+          "date": "2023-10-29"
+     },
+     {
+          "name": "Halloween",
+          "date": "2023-10-31"
+     },
+     {
+          "name": "All Saint's Day",
+          "date": "2023-11-01"
+     },
+     {
+          "name": "First Day of Native American Heritage Month",
+          "date": "2023-11-01"
+     },
+     {
+          "name": "All Soul's Day",
+          "date": "2023-11-02"
+     },
+     {
+          "name": "Election Day",
+          "date": "2023-11-02"
+     },
+     {
+          "name": "Diwali/Deepavali",
+          "date": "2023-11-04"
+     },
+     {
+          "name": "Daylight Savings Time Ends",
+          "date": "2023-11-07"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2023-11-08"
+     },
+     {
+          "name": "Marine Corps Birthday",
+          "date": "2023-11-10"
+     },
+     {
+          "name": "Veterans Day",
+          "date": "2023-11-11"
+     },
+     {
+          "name": "Thanksgiving Day",
+          "date": "2023-11-25"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2023-11-26"
+     },
+     {
+          "name": "Black Friday",
+          "date": "2023-11-26"
+     },
+     {
+          "name": "Native American Heritage Day",
+          "date": "2023-11-26"
+     },
+     {
+          "name": "First Sunday of Advent",
+          "date": "2023-11-28"
+     },
+     {
+          "name": "Chanukah/Hanukkah",
+          "date": "2023-11-29"
+     },
+     {
+          "name": "Cyber Monday",
+          "date": "2023-11-29"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2023-12-01"
+     },
+     {
+          "name": "Last Day of Chanukah",
+          "date": "2023-12-06"
+     },
+     {
+          "name": "St. Nicholas Day",
+          "date": "2023-12-06"
+     },
+     {
+          "name": "Pearl Harbor Remembrance Day",
+          "date": "2023-12-07"
+     },
+     {
+          "name": "Feast of the Immaculate Conception",
+          "date": "2023-12-08"
+     },
+     {
+          "name": "Feast of Our Lady of Guadalupe",
+          "date": "2023-12-12"
+     },
+     {
+          "name": "National Guard Birthday",
+          "date": "2023-12-13"
+     },
+     {
+          "name": "Bill of Rights Day",
+          "date": "2023-12-15"
+     },
+     {
+          "name": "Pan American Aviation Day",
+          "date": "2023-12-17"
+     },
+     {
+          "name": "Wright Brothers Day",
+          "date": "2023-12-17"
+     },
+     {
+          "name": "December Solstice",
+          "date": "2023-12-21"
+     },
+     {
+          "name": "Washington's Birthday",
+          "date": "2023-12-23"
+     },
+     {
+          "name": "Christmas Eve",
+          "date": "2023-12-24"
+     },
+     {
+          "name": "Christmas Day",
+          "date": "2023-12-25"
+     },
+     {
+          "name": "Kwanzaa",
+          "date": "2023-12-26"
+     },
+     {
+          "name": "New Year's Eve",
+          "date": "2023-12-31"
+     },
+     {
+          "name": "New Year's Day",
+          "date": "2024-01-01"
+     },
+     {
+          "name": "Epiphany",
+          "date": "2024-01-06"
+     },
+     {
+          "name": "Orthodox Christmas Day",
+          "date": "2024-01-07"
+     },
+     {
+          "name": "Margaret Thatcher Day",
+          "date": "2024-01-10"
+     },
+     {
+          "name": "World Sketchnote Day",
+          "date": "2024-01-11"
+     },
+     {
+          "name": "Zanzibar Revolution Day",
+          "date": "2024-01-12"
+     },
+     {
+          "name": "National Rubber Ducky Day",
+          "date": "2024-01-13"
+     },
+     {
+          "name": "Stephen Foster Memorial",
+          "date": "2024-01-13"
+     },
+     {
+          "name": "Tamil Thai Pongdal Day",
+          "date": "2024-01-14"
+     },
+     {
+          "name": "Orthodox New Year",
+          "date": "2024-01-14"
+     },
+     {
+          "name": "National Bagel Day",
+          "date": "2024-01-15"
+     },
+     {
+          "name": "Signing of the Peace Accords",
+          "date": "2024-01-16"
+     },
+     {
+          "name": "Martin Luther King Jr. Day",
+          "date": "2024-01-18"
+     },
+     {
+          "name": "Robert E. Lee's Birthday",
+          "date": "2024-01-18"
+     },
+     {
+          "name": "Idaho Human Rights Day",
+          "date": "2024-01-18"
+     },
+     {
+          "name": "Civil Rights Day",
+          "date": "2024-01-18"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2024-01-19"
+     },
+     {
+          "name": "Inauguration Day",
+          "date": "2024-01-20"
+     },
+     {
+          "name": "Tu Bishvat",
+          "date": "2024-01-28"
+     },
+     {
+          "name": "Kansas Day",
+          "date": "2024-01-29"
+     },
+     {
+          "name": "National Freedom Day",
+          "date": "2024-02-01"
+     },
+     {
+          "name": "First Day of Black History Month",
+          "date": "2024-02-01"
+     },
+     {
+          "name": "Groundhog Day",
+          "date": "2024-02-02"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2024-02-04"
+     },
+     {
+          "name": "National Wear Red Day",
+          "date": "2024-02-05"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2024-02-12"
+     },
+     {
+          "name": "Chinese New Year",
+          "date": "2024-02-12"
+     },
+     {
+          "name": "Valentine's Day",
+          "date": "2024-02-14"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2024-02-14"
+     },
+     {
+          "name": "President's Day",
+          "date": "2024-02-15"
+     },
+     {
+          "name": "Daisy Gatson Bates Day",
+          "date": "2024-02-15"
+     },
+     {
+          "name": "Susan B. Anthony Birthday",
+          "date": "2024-02-15"
+     },
+     {
+          "name": "Mardi Gras",
+          "date": "2024-02-16"
+     },
+     {
+          "name": "Elizabeth Peratrovich Day",
+          "date": "2024-02-16"
+     },
+     {
+          "name": "Ash Wednesday",
+          "date": "2024-02-17"
+     },
+     {
+          "name": "George Rogers Clark Day",
+          "date": "2024-02-25"
+     },
+     {
+          "name": "Purim",
+          "date": "2024-02-26"
+     },
+     {
+          "name": "Linus Pauling Day",
+          "date": "2024-02-28"
+     },
+     {
+          "name": "St. David's Day",
+          "date": "2024-03-01"
+     },
+     {
+          "name": "Casimir Pulaski Day",
+          "date": "2024-03-01"
+     },
+     {
+          "name": "First Day of Women's History Month",
+          "date": "2024-03-01"
+     },
+     {
+          "name": "First Day of Irish Ammerican Heritage Month",
+          "date": "2024-03-01"
+     },
+     {
+          "name": "Texas Independence Day",
+          "date": "2024-03-02"
+     },
+     {
+          "name": "Read Across America Day",
+          "date": "2024-02-02"
+     },
+     {
+          "name": "Town Meeting Day",
+          "date": "2024-02-02"
+     },
+     {
+          "name": "Employee Appreciation Day",
+          "date": "2024-03-05"
+     },
+     {
+          "name": "Maha Shivaratri",
+          "date": "2024-03-11"
+     },
+     {
+          "name": "Isra and Mi'raj",
+          "date": "2024-03-11"
+     },
+     {
+          "name": "Davlight Savings Time Starts",
+          "date": "2024-03-14"
+     },
+     {
+          "name": "St. Patrick's Day",
+          "date": "2024-03-17"
+     },
+     {
+          "name": "Evacuation Day",
+          "date": "2024-03-17"
+     },
+     {
+          "name": "March Equinox",
+          "date": "2024-03-20"
+     },
+     {
+          "name": "Maryland Day",
+          "date": "2024-03-25"
+     },
+     {
+          "name": "Prince Jonah Kuhio Kalanianaole Day",
+          "date": "2024-03-26"
+     },
+     {
+          "name": "Passover Eve",
+          "date": "2024-03-27"
+     },
+     {
+          "name": "Palm Sunday",
+          "date": "2024-03-28"
+     },
+     {
+          "name": "Holi",
+          "date": "2024-03-28"
+     },
+     {
+          "name": "Passover (first day)",
+          "date": "2024-03-28"
+     },
+     {
+          "name": "Seward's Day",
+          "date": "2024-03-29"
+     },
+     {
+          "name": "National Vietnam War Veterans Day",
+          "date": "2024-03-29"
+     },
+     {
+          "name": "Doctor's Day",
+          "date": "2024-03-30"
+     },
+     {
+          "name": "Cesar Chaves Day",
+          "date": "2024-03-21"
+     },
+     {
+          "name": "Maundy Thursday",
+          "date": "2024-04-01"
+     },
+     {
+          "name": "Pascua Florida Day",
+          "date": "2024-04-02"
+     },
+     {
+          "name": "Holy Saturday",
+          "date": "2024-04-03"
+     },
+     {
+          "name": "Last Day of Passover",
+          "date": "2024-04-04"
+     },
+     {
+          "name": "Easter Sunday",
+          "date": "2024-04-04"
+     },
+     {
+          "name": "National Tartan Day",
+          "date": "2024-04-06"
+     },
+     {
+          "name": "National Library Workers' Day",
+          "date": "2024-04-06"
+     },
+     {
+          "name": "Yom HaShoah",
+          "date": "2024-04-06"
+     },
+     {
+          "name": "Ramadan Starts",
+          "date": "2024-04-13"
+     },
+     {
+          "name": "Thomas Jefferson's Birthday",
+          "date": "2024-04-13"
+     },
+     {
+          "name": "Yom Ha'atzmaut",
+          "date": "2024-04-15"
+     },
+     {
+          "name": "Father Damien Day",
+          "date": "2024-04-15"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2024-04-16"
+     },
+     {
+          "name": "Patriots' Day",
+          "date": "2024-04-19"
+     },
+     {
+          "name": "San Jacinto Day",
+          "date": "2024-04-21"
+     },
+     {
+          "name": "Administrative Professionals Day",
+          "date": "2024-04-21"
+     },
+     {
+          "name": "Oklahoma Day",
+          "date": "2024-04-22"
+     },
+     {
+          "name": "Take our Kids to Work Day",
+          "date": "2024-04-22"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2024-04-26"
+     },
+     {
+          "name": "Confederate Heroes' Day",
+          "date": "2024-04-26"
+     },
+     {
+          "name": "Lag BaOmer",
+          "date": "2024-04-30"
+     },
+     {
+          "name": "Orthodox Good Friday",
+          "date": "2024-04-30"
+     },
+     {
+          "name": "Arbor Day",
+          "date": "2024-04-30"
+     },
+     {
+          "name": "Kentucky Oaks",
+          "date": "2024-04-30"
+     },
+     {
+          "name": "Orthodox Holy Saturday",
+          "date": "2024-05-01"
+     },
+     {
+          "name": "Kentucky Derby",
+          "date": "2024-05-01"
+     },
+     {
+          "name": "Law Day",
+          "date": "2024-05-01"
+     },
+     {
+          "name": "Loyalty Day",
+          "date": "2024-05-01"
+     },
+     {
+          "name": "National Explosive Ordnance Disposal Day",
+          "date": "2024-05-01"
+     },
+     {
+          "name": "Lei Day",
+          "date": "2024-05-01"
+     },
+     {
+          "name": "First Day of Asian Pacific American Heritage Month",
+          "date": "2024-05-01"
+     },
+     {
+          "name": "First Day of Jewish American Heritage Month",
+          "date": "2024-05-01"
+     },
+     {
+          "name": "Orthodox Easter",
+          "date": "2024-05-02"
+     },
+     {
+          "name": "Kent State Shootings Remembrance",
+          "date": "2024-05-04"
+     },
+     {
+          "name": "Rhode Island Independence Day",
+          "date": "2024-05-04"
+     },
+     {
+          "name": "Cinco de Mayo",
+          "date": "2024-05-05"
+     },
+     {
+          "name": "National Nurses Day",
+          "date": "2024-05-06"
+     },
+     {
+          "name": "National Day of Prayer",
+          "date": "2024-05-06"
+     },
+     {
+          "name": "Truman Day Observed",
+          "date": "2024-05-07"
+     },
+     {
+          "name": "Military Spouse Appreciation Day",
+          "date": "2024-05-07"
+     },
+     {
+          "name": "Lailat al-Qadr",
+          "date": "2024-05-08"
+     },
+     {
+          "name": "Truman Day",
+          "date": "2024-05-08"
+     },
+     {
+          "name": "Victory in Europe Day",
+          "date": "2024-05-08"
+     },
+     {
+          "name": "Mother's Day",
+          "date": "2024-05-09"
+     },
+     {
+          "name": "Confederate Memorial Day",
+          "date": "2024-05-10"
+     },
+     {
+          "name": "Ascension Day",
+          "date": "2024-05-13"
+     },
+     {
+          "name": "Eid al-Fitr",
+          "date": "2024-05-13"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2024-05-14"
+     },
+     {
+          "name": "Peace Officers Memorial Day",
+          "date": "2024-05-15"
+     },
+     {
+          "name": "Armed Forces Day",
+          "date": "2024-05-15"
+     },
+     {
+          "name": "Preakness Stakes",
+          "date": "2024-05-15"
+     },
+     {
+          "name": "Shavout",
+          "date": "2024-05-17"
+     },
+     {
+          "name": "Tax Day",
+          "date": "2024-05-17"
+     },
+     {
+          "name": "Emergency Medical Services for Children Day",
+          "date": "2024-05-19"
+     },
+     {
+          "name": "National Defense Transportation Day",
+          "date": "2024-05-21"
+     },
+     {
+          "name": "National Maritime Day",
+          "date": "2024-05-22"
+     },
+     {
+          "name": "Harvey Milk Day",
+          "date": "2024-05-22"
+     },
+     {
+          "name": "Pentecost",
+          "date": "2024-05-23"
+     },
+     {
+          "name": "Whit Monday",
+          "date": "2024-05-24"
+     },
+     {
+          "name": "National Missing Children's Day",
+          "date": "2024-05-25"
+     },
+     {
+          "name": "Trinity Sunday",
+          "date": "2024-05-30"
+     },
+     {
+          "name": "Memorial Day",
+          "date": "2024-05-31"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2024-05-31"
+     },
+     {
+          "name": "First Day of Pride Month",
+          "date": "2024-06-01"
+     },
+     {
+          "name": "First Day of Caribbean American Heritage Month",
+          "date": "2024-06-01"
+     },
+     {
+          "name": "Statehood Day",
+          "date": "2024-06-01"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2024-06-02"
+     },
+     {
+          "name": "Corpus Christi",
+          "date": "2024-06-03"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2024-06-03"
+     },
+     {
+          "name": "Belmont Stakes",
+          "date": "2024-06-05"
+     },
+     {
+          "name": "D-Day",
+          "date": "2024-06-06"
+     },
+     {
+          "name": "Jefferson Davis' Birthday",
+          "date": "2024-06-07"
+     },
+     {
+          "name": "Kamehameha Day",
+          "date": "2024-06-11"
+     },
+     {
+          "name": "Loving Day",
+          "date": "2024-06-12"
+     },
+     {
+          "name": "Bunker Hill Day",
+          "date": "2024-06-13"
+     },
+     {
+          "name": "Army Birthday",
+          "date": "2024-06-14"
+     },
+     {
+          "name": "Flag Day",
+          "date": "2024-06-14"
+     },
+     {
+          "name": "Juneteenth",
+          "date": "2024-06-19"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2024-06-19"
+     },
+     {
+          "name": "Father's Day",
+          "date": "2024-06-20"
+     },
+     {
+          "name": "West Virginia Day",
+          "date": "2024-06-20"
+     },
+     {
+          "name": "American Eagle Day",
+          "date": "2024-06-20"
+     },
+     {
+          "name": "June Solstice",
+          "date": "2024-06-20"
+     },
+     {
+          "name": "Independence Day",
+          "date": "2024-07-04"
+     },
+     {
+          "name": "Nathan Bedford Forrest Day",
+          "date": "2024-07-13"
+     },
+     {
+          "name": "Bastille Day",
+          "date": "2024-07-14"
+     },
+     {
+          "name": "Rural Transit Day",
+          "date": "2024-07-16"
+     },
+     {
+          "name": "Tisha B'Av",
+          "date": "2024-07-18"
+     },
+     {
+          "name": "Eid al-Adha",
+          "date": "2024-07-22"
+     },
+     {
+          "name": "Pioneer Day",
+          "date": "2024-07-24"
+     },
+     {
+          "name": "National Korean War Veterans Armistice Day",
+          "date": "2024-07-27"
+     },
+     {
+          "name": "Colorado Day",
+          "date": "2024-08-01"
+     },
+     {
+          "name": "Coast Guard Birthday",
+          "date": "2024-08-04"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2024-08-04"
+     },
+     {
+          "name": "Purple Heart Day",
+          "date": "2024-08-07"
+     },
+     {
+          "name": "Victory Day",
+          "date": "2024-08-09"
+     },
+     {
+          "name": "Muharram",
+          "date": "2024-08-10"
+     },
+     {
+          "name": "Assumption of Mary",
+          "date": "2024-08-15"
+     },
+     {
+          "name": "National Senior Citizens Day",
+          "date": "2024-08-15"
+     },
+     {
+          "name": "Bennington Battle Day",
+          "date": "2024-08-16"
+     },
+     {
+          "name": "Ashura",
+          "date": "2024-08-19"
+     },
+     {
+          "name": "National Aviation Day",
+          "date": "2024-08-19"
+     },
+     {
+          "name": "Hawaii Statehood Day",
+          "date": "2024-08-26"
+     },
+     {
+          "name": "Raksha Bandhan",
+          "date": "2024-08-21"
+     },
+     {
+          "name": "Women's Equality Day",
+          "date": "2024-08-26"
+     },
+     {
+          "name": "Lyndon Baines Johnson Day",
+          "date": "2024-08-27"
+     },
+     {
+          "name": "Labor Day",
+          "date": "2024-09-06"
+     },
+     {
+          "name": "Rosh Hashana",
+          "date": "2024-09-07"
+     },
+     {
+          "name": "California Admission Day",
+          "date": "2024-09-09"
+     },
+     {
+          "name": "Ganesh Chaturthi",
+          "date": "2024-09-10"
+     },
+     {
+          "name": "First Responders Day",
+          "date": "2024-09-11"
+     },
+     {
+          "name": "Patriot Day",
+          "date": "2024-09-11"
+     },
+     {
+          "name": "Carl Gamer Federal Lands Cleanup Day",
+          "date": "2024-09-11"
+     },
+     {
+          "name": "National Grandparents Day",
+          "date": "2024-09-12"
+     },
+     {
+          "name": "Yom Kippur",
+          "date": "2024-09-16"
+     },
+     {
+          "name": "Constitution and Citizenship Day",
+          "date": "2024-09-17"
+     },
+     {
+          "name": "National POW/MIA Recognition Day",
+          "date": "2024-09-17"
+     },
+     {
+          "name": "Air Force Birthday",
+          "date": "2024-09-18"
+     },
+     {
+          "name": "National CleanUp Day",
+          "date": "2024-09-18"
+     },
+     {
+          "name": "First Day of Sukkot",
+          "date": "2024-09-21"
+     },
+     {
+          "name": "Emancipation Day",
+          "date": "2024-09-22"
+     },
+     {
+          "name": "September Equinox",
+          "date": "2024-09-22"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2024-09-24"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2024-09-24"
+     },
+     {
+          "name": "Michigan Indian Day",
+          "date": "2024-09-24"
+     },
+     {
+          "name": "Gold Star Mother's Day",
+          "date": "2024-09-26"
+     },
+     {
+          "name": "Last Day of Sukkot",
+          "date": "2024-09-27"
+     },
+     {
+          "name": "American Indian Day",
+          "date": "2024-09-27"
+     },
+     {
+          "name": "Simchat Torah",
+          "date": "2024-09-29"
+     },
+     {
+          "name": "Feast of St. Francis of Assisi",
+          "date": "2024-10-04"
+     },
+     {
+          "name": "Frances Xavier Cabrini Day",
+          "date": "2024-10-04"
+     },
+     {
+          "name": "Child Health Day",
+          "date": "2024-10-04"
+     },
+     {
+          "name": "Leif Erikson Day",
+          "date": "2024-10-09"
+     },
+     {
+          "name": "Columbus Day",
+          "date": "2024-10-11"
+     },
+     {
+          "name": "Fraternal Day",
+          "date": "2024-10-11"
+     },
+     {
+          "name": "Yorktown Victory Day",
+          "date": "2024-10-11"
+     },
+     {
+          "name": "Discoverers' Day",
+          "date": "2024-10-11"
+     },
+     {
+          "name": "Native American Day",
+          "date": "2024-10-11"
+     },
+     {
+          "name": "Indigenous People's Day",
+          "date": "2024-10-11"
+     },
+     {
+          "name": "American Indian Heritage Day",
+          "date": "2024-10-11"
+     },
+     {
+          "name": "Navy Birthday",
+          "date": "2024-10-13"
+     },
+     {
+          "name": "Dussehra",
+          "date": "2024-10-14"
+     },
+     {
+          "name": "White Cane Safety Day",
+          "date": "2024-10-15"
+     },
+     {
+          "name": "Boss's Day",
+          "date": "2024-10-15"
+     },
+     {
+          "name": "Sweetest Day",
+          "date": "2024-10-16"
+     },
+     {
+          "name": "Alaska Day",
+          "date": "2024-10-18"
+     },
+     {
+          "name": "The Prophet's Birthday",
+          "date": "2024-10-19"
+     },
+     {
+          "name": "Nevada Day",
+          "date": "2024-10-29"
+     },
+     {
+          "name": "Halloween",
+          "date": "2024-10-31"
+     },
+     {
+          "name": "All Saint's Day",
+          "date": "2024-11-01"
+     },
+     {
+          "name": "First Day of Native American Heritage Month",
+          "date": "2024-11-01"
+     },
+     {
+          "name": "All Soul's Day",
+          "date": "2024-11-02"
+     },
+     {
+          "name": "Election Day",
+          "date": "2024-11-02"
+     },
+     {
+          "name": "Diwali/Deepavali",
+          "date": "2024-11-04"
+     },
+     {
+          "name": "Daylight Savings Time Ends",
+          "date": "2024-11-07"
+     },
+     {
+          "name": "Barack Obama Day",
+          "date": "2024-11-08"
+     },
+     {
+          "name": "Marine Corps Birthday",
+          "date": "2024-11-10"
+     },
+     {
+          "name": "Veterans Day",
+          "date": "2024-11-11"
+     },
+     {
+          "name": "Thanksgiving Day",
+          "date": "2024-11-25"
+     },
+     {
+          "name": "Lincoln's Birthday",
+          "date": "2024-11-26"
+     },
+     {
+          "name": "Black Friday",
+          "date": "2024-11-26"
+     },
+     {
+          "name": "Native American Heritage Day",
+          "date": "2024-11-26"
+     },
+     {
+          "name": "First Sunday of Advent",
+          "date": "2024-11-28"
+     },
+     {
+          "name": "Chanukah/Hanukkah",
+          "date": "2024-11-29"
+     },
+     {
+          "name": "Cyber Monday",
+          "date": "2024-11-29"
+     },
+     {
+          "name": "Rosa Parks Day",
+          "date": "2024-12-01"
+     },
+     {
+          "name": "Last Day of Chanukah",
+          "date": "2024-12-06"
+     },
+     {
+          "name": "St. Nicholas Day",
+          "date": "2024-12-06"
+     },
+     {
+          "name": "Pearl Harbor Remembrance Day",
+          "date": "2024-12-07"
+     },
+     {
+          "name": "Feast of the Immaculate Conception",
+          "date": "2024-12-08"
+     },
+     {
+          "name": "Feast of Our Lady of Guadalupe",
+          "date": "2024-12-12"
+     },
+     {
+          "name": "National Guard Birthday",
+          "date": "2024-12-13"
+     },
+     {
+          "name": "Bill of Rights Day",
+          "date": "2024-12-15"
+     },
+     {
+          "name": "Pan American Aviation Day",
+          "date": "2024-12-17"
+     },
+     {
+          "name": "Wright Brothers Day",
+          "date": "2024-12-17"
+     },
+     {
+          "name": "December Solstice",
+          "date": "2024-12-21"
+     },
+     {
+          "name": "Washington's Birthday",
+          "date": "2024-12-23"
+     },
+     {
+          "name": "Christmas Eve",
+          "date": "2024-12-24"
+     },
+     {
+          "name": "Christmas Day",
+          "date": "2024-12-25"
+     },
+     {
+          "name": "Kwanzaa",
+          "date": "2024-12-26"
+     },
+     {
+          "name": "New Year's Eve",
+          "date": "2024-12-31"
+     }
+]
