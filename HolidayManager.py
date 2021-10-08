@@ -14,8 +14,6 @@ class Holiday:
         return self._date
     def __str__(self):
         return self._name + " (" + self._date + ") has been added to the holiday list."
-    def __len__(self):
-        return len(self.names)
 
 class Compare: # used in Option 5 when comparing input to "Y" or "N"
     def __init__(self, name):
