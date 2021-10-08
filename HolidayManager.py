@@ -8,13 +8,24 @@ class Holiday:
     def __init__(self, name, date):
         self._name = name
         self._date = date
-
     def get_name(self):
         return self._name
-    
     def get_date(self):
         return self._date
-    
+    def __str__(self):
+        return self._name + " (" + self._date + ") has been added to the holiday list."
+    def __len__(self):
+        return len(self.names)
+
+class Compare: # used in Option 5 when comparing input to "Y" or "N"
+    def __init__(self, name):
+        self.name = name
+    def __eq__(self,other):
+        if (self.name == other.name):
+            return self.name == other.name
+        else:
+            return False
+        
 filename = "Holidays.json"
 holiday_list = []
 with open(filename) as json_file:
@@ -28,7 +39,7 @@ print("==================")
 print("There are",len(holiday_list),"holidays stored in the system.")
 
 edited = 0 # increments if any changes are made (Added or Removed)
-api_key = "[place_holder]"
+api_key = "de28503000abba2941ecd149deff9c83"
 lat = "44.976884" # Minneapolis latitude/longitude
 lon = "-93.269999"
 weather_dict = {} # master dictionary that stores the current weeks dates and weather to be cross-referenced later
@@ -59,8 +70,9 @@ def option1(): # Add
     print("=============")
     addHoliday = input("Holiday: ")
     date_text = input("Date (yyyy-mm-dd): ")
+    add_new = Holiday(addHoliday,date_text) # add to Holiday class
     if validate_date(date_text) is True:
-        print(addHoliday + " (" + date_text + ") has been added to the holiday list.")
+        print(add_new) # call __str__ dunder
         temp_holiday = Holiday(addHoliday,date_text)
         holiday_list.append(temp_holiday)
         global edited
@@ -84,7 +96,7 @@ def option2(): # Remove
             found = True
             del holiday_list[i]
     if found == True:
-        print_delete()
+        print_delete() # call decorator
         global edited
         edited += 1
     else:
@@ -143,21 +155,25 @@ def option4(): # View
 def option5(): # Exit
     print("Exit")
     print("====")
+    Y = Compare("Y")
+    N = Compare("N")
     if edited == 0: # No edits were made
-        bye1 = input("Are you sure you want to exit? [Y/N]: ").upper()
-        if bye1 == "Y":
+        bye = input("Are you sure you want to exit? [Y/N]: ").upper()
+        bye_class = Compare(bye)
+        if bye_class == Y:
             print("Goodbye!")
             exit()
-        elif bye1 == "N":
+        elif bye_class == N:
             print("Canceled. Returning to main menu")
             main_menu()
         else: print ("Not a valid choice. Please choose Y or N." + "\n")
     else : # at least one edit was made
         bye = input("Are you sure you want to leave? Your changes will not be saved. (Y/N): ").upper()
-        if bye == "Y":
+        bye_class = Compare(bye)
+        if bye_class == Y:
             print("The program will now exit without saving. Goodbye.")
             exit()
-        elif bye == "N":
+        elif bye_class == N:
             print("Canceled. Returning to main menu.")
             main_menu()
         else: print ("Not a valid choice. Please choose Y or N." + "\n")
